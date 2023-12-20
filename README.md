@@ -5,6 +5,7 @@
 - [Learning Computer Science](#learning-computer-science)
   - [Table of Contents](#table-of-contents)
   - [General advices about learning CS](#general-advices-about-learning-cs)
+  - [Data Structures and Algorithms](#data-structures-and-algorithms)
   - [Computer science (with Python) courses](#computer-science-with-python-courses)
   - [Databases](#databases)
   - [Learning platforms](#learning-platforms)
@@ -16,6 +17,10 @@
 - [NeetCode - Best FREE Way to get Good at Coding Interviews in 2022](https://www.youtube.com/watch?v=aa2ijyWBBIc)
 - [NeetCode - Top 6 Coding Interview Concepts (Data Structures & Algorithms)](https://www.youtube.com/watch?v=ft0owvS5tQA)
 - [Dave Burji - The unfair way I got good at Leetcode](https://www.youtube.com/watch?v=GPIuPRqDGG8)
+
+## Data Structures and Algorithms
+
+- [Rachel Singh - Rachel's intro to Data Structures lectures (playlist)](https://www.youtube.com/playlist?list=PL9Kj-MdBMaPCftXvfwNxNc83wsgKAFO5G)
 
 ## Computer science (with Python) courses
 
