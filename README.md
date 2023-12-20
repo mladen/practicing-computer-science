@@ -22,6 +22,10 @@
 
 - [Rachel Singh - Rachel's intro to Data Structures lectures (playlist)](https://www.youtube.com/playlist?list=PL9Kj-MdBMaPCftXvfwNxNc83wsgKAFO5G)
 
+- https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed - Fatim ul Haq (Ex-Microsoft, Ex-Facebook. Co-founder at Educative.io)
+- https://hackernoon.com/5-to-23-patterns-to-ace-any-coding-interview
+- [Leetcode Kata](https://www.youtube.com/watch?v=tlIzxtjRW7c)
+
 ## Computer science (with Python) courses
 
 - Introduction To Computer Science And Programming In Python
