@@ -6,10 +6,12 @@
   - [Table of Contents](#table-of-contents)
   - [General advices about learning CS](#general-advices-about-learning-cs)
   - [Computer architecture](#computer-architecture)
-  - [Computer science (with Python) courses](#computer-science-with-python-courses)
+  - [Computer science](#computer-science)
+    - [Computer science (with Python) courses](#computer-science-with-python-courses)
   - [Data Structures and Algorithms](#data-structures-and-algorithms)
   - [Assembly](#assembly)
   - [Software basics](#software-basics)
+    - [Software development basics](#software-development-basics)
   - [Databases](#databases)
   - [Learning platforms](#learning-platforms)
   - [YouTube channels](#youtube-channels)
@@ -33,7 +35,26 @@
 
 - Khan Academy - Computer Science
 
-## Computer science (with Python) courses
+## Computer science
+
+- [freeCodeCamp - Harvard CS50 – Full Computer Science University Course](https://www.youtube.com/watch?v=LfaMVlDaQ24)
+
+  - Course Contents:
+    - (00:00:00) Lecture 0 - Scratch
+    - (02:05:47) Lecture 1 - C
+    - (04:35:19) Lecture 2 - Arrays
+    - (06:59:38) Lecture 3 - Algorithms
+    - (09:01:13) Lecture 4 - Memory
+    - (11:26:33) Lecture 5 - Data Structures
+    - (13:42:44) Lecture 6 - Python
+    - (15:58:02) Lecture 7 - SQL
+    - (18:18:30) Lecture 8 - HTML, CSS, JavaScript
+    - (20:58:14) Lecture 9 - Flask
+    - (23:19:07) Lecture 10 - Emoji
+    - (25:05:28) Cybersecurity
+      Recorded in 2021.
+
+### Computer science (with Python) courses
 
 - Introduction To Computer Science And Programming In Python
   - [edX link](https://www.edx.org/learn/computer-programming/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-7)
@@ -79,6 +100,14 @@
 ## Software basics
 
 - [V. Anton spraul - Think Like a Programmer (playlist)](https://www.youtube.com/playlist?list=PLKQ5LYb497AZIZe9dBWy8GwLluVaMQVj0)
+
+### Software development basics
+
+- [Why You Should Learn To Program The Hard Way](https://www.youtube.com/watch?v=Qf56xUKbx24)
+
+- [Jonathan Blow on the Problem with Object Oriented](https://www.youtube.com/watch?v=04ksL1hf_p8)
+- [Jonathan Blow Clips - Jonathan Blow on Simplicity](https://www.youtube.com/watch?v=4oky64qN5WI)
+- [gamedev cuts - Jonathan Blow Gives Advice To His Younger Self](https://www.youtube.com/watch?v=EC3tRWOifMc)
 
 ## Databases
 
