@@ -5,10 +5,13 @@
 - [Learning Computer Science](#learning-computer-science)
   - [Table of Contents](#table-of-contents)
   - [General advices about learning CS](#general-advices-about-learning-cs)
-  - [Data Structures and Algorithms](#data-structures-and-algorithms)
+  - [Computer architecture](#computer-architecture)
   - [Computer science (with Python) courses](#computer-science-with-python-courses)
+  - [Data Structures and Algorithms](#data-structures-and-algorithms)
+  - [Assembly](#assembly)
   - [Databases](#databases)
   - [Learning platforms](#learning-platforms)
+  - [YouTube channels](#youtube-channels)
 
 ## General advices about learning CS
 
@@ -18,13 +21,16 @@
 - [NeetCode - Top 6 Coding Interview Concepts (Data Structures & Algorithms)](https://www.youtube.com/watch?v=ft0owvS5tQA)
 - [Dave Burji - The unfair way I got good at Leetcode](https://www.youtube.com/watch?v=GPIuPRqDGG8)
 
-## Data Structures and Algorithms
+## Computer architecture
 
-- [Rachel Singh - Rachel's intro to Data Structures lectures (playlist)](https://www.youtube.com/playlist?list=PL9Kj-MdBMaPCftXvfwNxNc83wsgKAFO5G)
+- [Computer Architecture - Full Course by Gate Smashers](https://www.youtube.com/watch?v=U0hTpFdEtgk)
+- [CrachCourse - Computer Science (playlist)](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+- kimylamp - the Machine Code Essentials series (playlist in works)
+  - [Reinventing the Processor](https://www.youtube.com/watch?v=rDnqmVnrZKs)
+  - [why stack exists](https://www.youtube.com/watch?v=hKXNr8oAkk8)
+- [Alex Hyett](https://www.youtube.com/watch?v=5OJRqkYbK-4)
 
-- https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed - Fatim ul Haq (Ex-Microsoft, Ex-Facebook. Co-founder at Educative.io)
-- https://hackernoon.com/5-to-23-patterns-to-ace-any-coding-interview
-- [Leetcode Kata](https://www.youtube.com/watch?v=tlIzxtjRW7c)
+- Khan Academy - Computer Science
 
 ## Computer science (with Python) courses
 
@@ -49,6 +55,25 @@
     15. Getting the Basics - Software Architecture Introduction (part 1) (534K views, 2 years ago, 7:48)
     16. Scaling Distributed Systems - Software Architecture Introduction (part 2) (124K views, 2 years ago, 6:34)
     17. Distributed Cache explained - Software Architecture Introduction (part 3) (58K views, 2 years ago, 4:00)
+
+## Data Structures and Algorithms
+
+- [Rachel Singh - Rachel's intro to Data Structures lectures (playlist)](https://www.youtube.com/playlist?list=PL9Kj-MdBMaPCftXvfwNxNc83wsgKAFO5G)
+
+- https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed - Fatim ul Haq (Ex-Microsoft, Ex-Facebook. Co-founder at Educative.io)
+- https://hackernoon.com/5-to-23-patterns-to-ace-any-coding-interview
+- [Leetcode Kata](https://www.youtube.com/watch?v=tlIzxtjRW7c)
+
+## Assembly
+
+- [Fireship - Assembly Language in 100 Seconds](https://www.youtube.com/watch?v=4gwYkEK0gOk)
+- [Low Level Learning - you can learn assembly FAST with this technique (arm64 breakdown)](https://www.youtube.com/watch?v=vhyettT7sdA)
+
+- [root42 - Let's Code - x86 Assembly (playlist)](https://www.youtube.com/playlist?list=PLGJnX2KGgaw1Vbtm7fEZT5XslBH302SWs)
+- [Davy Wybiral - Assembly Programming Tutorial (playlist)](https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe)
+- [HackUCF - x86 Assembly Crash Course](https://www.youtube.com/watch?v=75gBFiFtAb8)
+
+- [Nathan Baggs - I made the same game in Assembly, C and C++](https://www.youtube.com/watch?v=2eeXj-ck9VA)
 
 ## Databases
 
@@ -101,3 +126,7 @@
 - [CodeInterview](https://www.codeinterview.io/)
 - [CodeFights](https://codefights.com/)
 - [CodeEval](https://www.codeeval.com/)
+
+## YouTube channels
+
+- [ComputerScienceLessons](https://www.youtube.com/@ComputerScienceLessons)
