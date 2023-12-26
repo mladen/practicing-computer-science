@@ -9,6 +9,7 @@
   - [Computer science (with Python) courses](#computer-science-with-python-courses)
   - [Data Structures and Algorithms](#data-structures-and-algorithms)
   - [Assembly](#assembly)
+  - [Software basics](#software-basics)
   - [Databases](#databases)
   - [Learning platforms](#learning-platforms)
   - [YouTube channels](#youtube-channels)
@@ -74,6 +75,10 @@
 - [HackUCF - x86 Assembly Crash Course](https://www.youtube.com/watch?v=75gBFiFtAb8)
 
 - [Nathan Baggs - I made the same game in Assembly, C and C++](https://www.youtube.com/watch?v=2eeXj-ck9VA)
+
+## Software basics
+
+- [V. Anton spraul - Think Like a Programmer (playlist)](https://www.youtube.com/playlist?list=PLKQ5LYb497AZIZe9dBWy8GwLluVaMQVj0)
 
 ## Databases
 
