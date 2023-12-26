@@ -80,6 +80,9 @@
 
 ## Data Structures and Algorithms
 
+- [NeetCode - Top 6 Coding Interview Concepts (Data Structures & Algorithms)](https://www.youtube.com/watch?v=ft0owvS5tQA)
+- [NeetCode - The Best Order to learn Algorithms & Data Structures?](https://www.youtube.com/watch?v=tohk1ETx3ZM)
+
 - [Rachel Singh - Rachel's intro to Data Structures lectures (playlist)](https://www.youtube.com/playlist?list=PL9Kj-MdBMaPCftXvfwNxNc83wsgKAFO5G)
 
 - https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed - Fatim ul Haq (Ex-Microsoft, Ex-Facebook. Co-founder at Educative.io)
