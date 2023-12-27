@@ -9,6 +9,7 @@
   - [Computer science](#computer-science)
     - [Computer science (with Python) courses](#computer-science-with-python-courses)
   - [Data Structures and Algorithms](#data-structures-and-algorithms)
+    - [General advices about learning Data structures and Algorithms for coding interviews](#general-advices-about-learning-data-structures-and-algorithms-for-coding-interviews)
     - [Fun algorithms](#fun-algorithms)
   - [Assembly](#assembly)
   - [Software basics](#software-basics)
@@ -20,10 +21,6 @@
 ## General advices about learning CS
 
 - [How to Learn Computer Science? (my answer on Quora)](https://www.quora.com/How-do-I-learn-computer-science-1/answer/Abhishek-Kumar-191)
-- [NeetCodeIO - How I Got Good at Coding Interviews](https://www.youtube.com/watch?v=SVvr3ZjtjI8)
-- [NeetCodeIO - Best FREE Way to get Good at Coding Interviews in 2022](https://www.youtube.com/watch?v=aa2ijyWBBIc)
-- [NeetCodeIO - Top 6 Coding Interview Concepts (Data Structures & Algorithms)](https://www.youtube.com/watch?v=ft0owvS5tQA)
-- [Dave Burji - The unfair way I got good at Leetcode](https://www.youtube.com/watch?v=GPIuPRqDGG8)
 
 ## Computer architecture
 
@@ -82,12 +79,18 @@
 
 ## Data Structures and Algorithms
 
-- [NeetCodeIO - Top 6 Coding Interview Concepts (Data Structures & Algorithms)](https://www.youtube.com/watch?v=ft0owvS5tQA)
-- [NeetCodeIO - The Best Order to learn Algorithms & Data Structures?](https://www.youtube.com/watch?v=tohk1ETx3ZM)
+- [NeetCode - Top 6 Coding Interview Concepts (Data Structures & Algorithms)](https://www.youtube.com/watch?v=ft0owvS5tQA)
 - [Rachel Singh - Rachel's intro to Data Structures lectures (playlist)](https://www.youtube.com/playlist?list=PL9Kj-MdBMaPCftXvfwNxNc83wsgKAFO5G)
 - https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed - Fatim ul Haq (Ex-Microsoft, Ex-Facebook. Co-founder at Educative.io)
 - https://hackernoon.com/5-to-23-patterns-to-ace-any-coding-interview
 - [Leetcode Kata](https://www.youtube.com/watch?v=tlIzxtjRW7c)
+
+### General advices about learning Data structures and Algorithms for coding interviews
+
+- [NeetCodeIO - The Best Order to learn Algorithms & Data Structures?](https://www.youtube.com/watch?v=tohk1ETx3ZM)
+- [NeetCode - How I Got Good at Coding Interviews](https://www.youtube.com/watch?v=SVvr3ZjtjI8)
+- [NeetCode - Best FREE Way to get Good at Coding Interviews in 2022](https://www.youtube.com/watch?v=aa2ijyWBBIc)
+- [Dave Burji - The unfair way I got good at Leetcode](https://www.youtube.com/watch?v=GPIuPRqDGG8)
 
 ### Fun algorithms
 
@@ -144,7 +147,7 @@
 
 ## Learning platforms
 
-- [NeetCodeIO](https://neetcodeIO.io/)
+- [NeetCodeIO](https://neetcode.io/) - free
 - [LeetCode](https://leetcode.com/) - most popular platform for practicing DA, DS, coding interviews
 - [Codecademy](https://www.codecademy.com/) - often have 50% discount (less then $90 USD)
 - [Codewars](https://www.codewars.com/)
@@ -178,4 +181,5 @@
 
 ## YouTube channels
 
+- [NeetCodeIO - Coding Interviews made Simple](https://www.youtube.com/@NeetCodeIO/playlists)
 - [ComputerScienceLessons](https://www.youtube.com/@ComputerScienceLessons)
