@@ -9,6 +9,7 @@
   - [Computer science](#computer-science)
     - [Computer science (with Python) courses](#computer-science-with-python-courses)
   - [Data Structures and Algorithms](#data-structures-and-algorithms)
+    - [Fun algorithms](#fun-algorithms)
   - [Assembly](#assembly)
   - [Software basics](#software-basics)
     - [Software development basics](#software-development-basics)
@@ -83,12 +84,22 @@
 
 - [NeetCodeIO - Top 6 Coding Interview Concepts (Data Structures & Algorithms)](https://www.youtube.com/watch?v=ft0owvS5tQA)
 - [NeetCodeIO - The Best Order to learn Algorithms & Data Structures?](https://www.youtube.com/watch?v=tohk1ETx3ZM)
-
 - [Rachel Singh - Rachel's intro to Data Structures lectures (playlist)](https://www.youtube.com/playlist?list=PL9Kj-MdBMaPCftXvfwNxNc83wsgKAFO5G)
-
 - https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed - Fatim ul Haq (Ex-Microsoft, Ex-Facebook. Co-founder at Educative.io)
 - https://hackernoon.com/5-to-23-patterns-to-ace-any-coding-interview
 - [Leetcode Kata](https://www.youtube.com/watch?v=tlIzxtjRW7c)
+
+### Fun algorithms
+
+- [polylog - Algorithms](https://www.youtube.com/playlist?list=PLvWv48bV43W9Q-MebcTxjH4RnbFHnElte)
+
+  - [ ] 1. The most powerful (and useless) algorithm (123K views, 8 months ago, 14:40)
+  - [ ] 2. The OPTIMAL algorithm for factoring! (35K views, 8 months ago, 3:04)
+  - [ ] 3. The hidden beauty of the A\* algorithm (656K views, 11 months ago, 19:22)
+  - [ ] 4. AI cracked this Codeforces problem. Can you? (52K views, 1 year ago, 13:28)
+  - [ ] 5. The Simplest Sorting Algorithm (You’ve Never Heard Of) (125K views, 1 year ago, 4:18)
+  - [ ] 6. The trick that solves Rubik’s Cubes and breaks ciphers (2.5M views, 1 year ago, 14:17)
+  - [ ] 7. How to Use Beads and Strings to Find the Diameter of a Tree (29K views, 2 years ago, 14:42)
 
 ## Assembly
 
