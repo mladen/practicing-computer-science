@@ -80,7 +80,11 @@
 ## Data Structures and Algorithms
 
 - [NeetCode - Top 6 Coding Interview Concepts (Data Structures & Algorithms)](https://www.youtube.com/watch?v=ft0owvS5tQA)
-- [Rachel Singh - Rachel's intro to Data Structures lectures (playlist)](https://www.youtube.com/playlist?list=PL9Kj-MdBMaPCftXvfwNxNc83wsgKAFO5G)
+- [NeetCode - Top 8 Data Structures for Coding Interviews](https://www.youtube.com/watch?v=uhYq27iSk9s)
+- [Power Couple - Top 5 Data Structures they asked me in 127 interviews](https://www.youtube.com/watch?v=DDRo29ptFwE)
+- [Power Couple - I gave 127 interviews. Top 5 Algorithms they asked me](https://www.youtube.com/watch?v=EM8IgIIiOdY)
+- [Power Couple - I solved 541 Leetcode problems. But you need only 150](https://www.youtube.com/watch?v=xF554Tlzo-c)
+- [ByteByteGo - 10 Key Data Structures We Use Every Day](https://www.youtube.com/watch?v=ouipSd_5ivQ)
 - [Junmin Jee - 6 basics data structures explained in one video](https://www.youtube.com/watch?v=_9swtAph9jM)
 - [Alex Hyett - 8 DATA STRUCTURES You NEED to Know](https://www.youtube.com/watch?v=SCkbQSPH--A)
 - [Alex Hyett - Domain Driven Design: What You Need To Know](https://www.youtube.com/watch?v=4rhzdZIDX_k)
@@ -88,12 +92,11 @@
 - [ForrestKnight - 3 More Data Structures You Need to Know](https://www.youtube.com/watch?v=2EQ9WswHJ6A)
 - [Pooja Dutt - How to ACTUALLY Master Data Structures FAST (with real coding examples)](https://www.youtube.com/watch?v=r51TRDECIw4)
 - [Pooja Dutt - How I mastered data structures and algorithms (for beginners)](https://www.youtube.com/watch?v=F7sPauKsZXw)
-- [Power Couple - I gave 127 interviews. Top 5 Algorithms they asked me](https://www.youtube.com/watch?v=EM8IgIIiOdY)
-- [Power Couple - I solved 541 Leetcode problems. But you need only 150](https://www.youtube.com/watch?v=xF554Tlzo-c)
 - [Data Structures And Algorithms in Python - Python Data Structures Full Tutorial (2020)](https://www.youtube.com/watch?v=kQDxmjfkIKY)
 - [Codebagel - Top 7 Algorithms for Coding Interviews Explained SIMPLY](https://www.youtube.com/watch?v=kp3fCihUXEg)
 - [Codebagel - Top 7 Data Structures for Interviews Explained SIMPLY](https://www.youtube.com/watch?v=cQWr9DFE1ww)
 - [Aaron Jack - DATA STRUCTURES you MUST know (as a Software Developer)](https://www.youtube.com/watch?v=sVxBVvlnJsM)
+- [Rachel Singh - Rachel's intro to Data Structures lectures (playlist)](https://www.youtube.com/playlist?list=PL9Kj-MdBMaPCftXvfwNxNc83wsgKAFO5G)
 - https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed - Fatim ul Haq (Ex-Microsoft, Ex-Facebook. Co-founder at Educative.io)
 - https://hackernoon.com/5-to-23-patterns-to-ace-any-coding-interview
 - [Leetcode Kata](https://www.youtube.com/watch?v=tlIzxtjRW7c)
