@@ -100,6 +100,20 @@
 - https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed - Fatim ul Haq (Ex-Microsoft, Ex-Facebook. Co-founder at Educative.io)
 - https://hackernoon.com/5-to-23-patterns-to-ace-any-coding-interview
 - [Leetcode Kata](https://www.youtube.com/watch?v=tlIzxtjRW7c)
+- [CS Dojo - Data structures and Algorithms](https://www.youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
+  - [ ] 1. Data Structures & Algorithms #1 - What Are Data Structures? (2.1M views, 5 years ago, 16:35)
+  - [ ] 2. An Overview of Arrays and Memory (641K views, 5 years ago, 20:20)
+  - [ ] 3. Introduction to Classes and Objects - Part 1 (1M views, 5 years ago, 19:51)
+  - [ ] 4. Introduction to Classes and Objects - Part 2 (382K views, 5 years ago, 15:04)
+  - [ ] 5. Introduction to Linked Lists (916K views, 5 years ago, 18:47)
+  - [ ] 6. Introduction to Recursion (636K views, 5 years ago, 22:37)
+  - [ ] 7. Introduction to Big O Notation and Time Complexity (1.9M views, 5 years ago, 36:22)
+  - [ ] 8. Resources for Learning Data Structures and Algorithms (711K views, 5 years ago, 3:36)
+  - [ ] 9. Introduction to Trees (295K views, 3 years ago, 10:30)
+  - [ ] 10. Introduction to Binary Search (231K views, 3 years ago, 14:23)
+  - [ ] 11. A Complete Overview of Quicksort (212K views, 3 years ago, 24:19)
+  - [ ] 12. Introduction to Stacks and Queues (237K views, 3 years ago, 16:30)
+  - [ ] 13. Introduction to Hash Tables and Dictionaries (334K views, 3 years ago, 18:40)
 
 ### General advices about learning Data structures and Algorithms for coding interviews
 
