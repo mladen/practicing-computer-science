@@ -17,6 +17,9 @@
   - [Databases](#databases)
   - [Learning platforms](#learning-platforms)
   - [YouTube channels](#youtube-channels)
+  - [Curriculums](#curriculums)
+  - [Other people's curriculums](#other-peoples-curriculums)
+  - [Other](#other)
 
 ## General advices about learning CS
 
@@ -34,6 +37,9 @@
 - Khan Academy - Computer Science
 
 ## Computer science
+
+- That webside is a great source of knowledge about CS: [Computer Science Field Guide](https://www.csfieldguide.org.nz/en/index.html)
+- learncs.org - [LearnCS.org](https://www.learncs.org/)
 
 - [freeCodeCamp - Harvard CS50 – Full Computer Science University Course](https://www.youtube.com/watch?v=LfaMVlDaQ24)
 
@@ -213,3 +219,24 @@
 
 - [NeetCodeIO - Coding Interviews made Simple](https://www.youtube.com/@NeetCodeIO/playlists)
 - [ComputerScienceLessons](https://www.youtube.com/@ComputerScienceLessons)
+
+## Curriculums
+
+- [OSSU - Open Source Society University (Path to a free self-taught education in Computer Science!)](https://github.com/ossu/computer-science)
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+
+## Other people's curriculums
+
+- [Learn AI From Scratch](https://learnaifromscratch.github.io/index.html)
+
+  - Let's begin
+    - [Part IA - CompSci](https://learnaifromscratch.github.io/software.html)
+    - [Part IB - Math](https://learnaifromscratch.github.io/math.html)
+    - [Part II - AI in 2023](https://learnaifromscratch.github.io/ai.html)
+  - Experimental
+    - [The Art of Computer Programming series](https://learnaifromscratch.github.io/taocp.html)
+    - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
+
+## Other
+
+- [Some good links](https://medium.com/@Satishes/i-want-to-learn-computer-engineering-b01837971f50)
