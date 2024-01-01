@@ -15,6 +15,7 @@
   - [Software basics](#software-basics)
     - [Software development basics](#software-development-basics)
   - [Databases](#databases)
+  - [Compilers](#compilers)
   - [Learning platforms](#learning-platforms)
   - [YouTube channels](#youtube-channels)
   - [Curriculums](#curriculums)
@@ -180,6 +181,17 @@
   - [ ] 12. When to use Database Transactions? #dbms #dbmstutorials (309 views, 4 weeks ago, 13:26)
   - https://www.studytonight.com/dbms/
 - [LaraconEU - Things every developer absolutely, positively needs to know about database indexing - Kai Sassnowski](https://www.youtube.com/watch?v=HubezKbFL7E)
+
+## Compilers
+
+- [Pixeled - Creating a Compiler](https://www.youtube.com/playlist?list=PLUDlas_Zy_qC7c5tCgTMYq2idyyT241qs)
+  - [ ] 1. Let's Create a Compiler (Pt.1) 309K views, 4 months ago, 1:11:03)
+  - [ ] 2. Growing a Parse Tree (Compiler Pt.2) 48K views, 4 months ago, 1:05:48)
+  - [ ] 3. Variables in Assembly (Compiler Pt.3) 28K views, 4 months ago, 1:29:28)
+  - [ ] 4. Adding adding to my language (Compiler Pt.4) 17K views, 4 months ago, 1:12:18)
+  - [ ] 5. Multiplication Superiority (Compiler Pt.5) 11K views, 3 months ago, 1:12:28)
+  - [ ] 6. If and Scopes! (Compiler Pt.6) 12K views, 3 months ago, 1:09:45)
+  - [ ] 7. Comments and Else! (Compiler Pt.7) 1.9K views, 2 days ago, 1:25:47)
 
 ## Learning platforms
 
