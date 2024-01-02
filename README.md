@@ -195,10 +195,11 @@
 
 ## Learning platforms
 
-- [NeetCodeIO](https://neetcode.io/) - free
+- [NeetCodeIO](https://neetcode.io/) - Data Structures and Algorithms for coding interviews; paid
 - [LeetCode](https://leetcode.com/) - most popular platform for practicing DA, DS, coding interviews
 - [Codecademy](https://www.codecademy.com/) - often have 50% discount (less then $90 USD)
 - [Codewars](https://www.codewars.com/)
+- [CodeinGame](https://www.codingame.com/start)
 - [Exercism](https://exercism.io/)
 - [HackerRank](https://www.hackerrank.com/)
 - [Udemy](https://www.udemy.com/) - often have discounts (then, the price per course is ~$10-15 USD)
