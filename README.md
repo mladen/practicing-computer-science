@@ -93,7 +93,7 @@
 - [Power Couple - I solved 541 Leetcode problems. But you need only 150](https://www.youtube.com/watch?v=xF554Tlzo-c)
 - [ByteByteGo - 10 Key Data Structures We Use Every Day](https://www.youtube.com/watch?v=ouipSd_5ivQ)
 - [Junmin Jee - 6 basics data structures explained in one video](https://www.youtube.com/watch?v=_9swtAph9jM)
-- [Alex Hyett - 8 DATA STRUCTURES You NEED to Know](https://www.youtube.com/watch?v=SCkbQSPH--A)
+- [Alex Hyett - 8 DATA STRUCTURES You NEED to Know](https://www.youtube.com/watch?v=SCkbQSPH--A) (duplicate from Alex Hyett's list below, but I'll leave it here)
 - [Alex Hyett - Domain Driven Design: What You Need To Know](https://www.youtube.com/watch?v=4rhzdZIDX_k)
 - [ForrestKnight - 4 Data Structures You Need to Know](https://www.youtube.com/watch?v=y7ksXLhuy-w)
 - [ForrestKnight - 3 More Data Structures You Need to Know](https://www.youtube.com/watch?v=2EQ9WswHJ6A)
@@ -159,10 +159,32 @@
 ### Software development basics
 
 - [Why You Should Learn To Program The Hard Way](https://www.youtube.com/watch?v=Qf56xUKbx24)
-
 - [Jonathan Blow on the Problem with Object Oriented](https://www.youtube.com/watch?v=04ksL1hf_p8)
 - [Jonathan Blow Clips - Jonathan Blow on Simplicity](https://www.youtube.com/watch?v=4oky64qN5WI)
 - [gamedev cuts - Jonathan Blow Gives Advice To His Younger Self](https://www.youtube.com/watch?v=EC3tRWOifMc)
+- [Alex Hyett - Programming for Beginners (playlist)](https://www.youtube.com/playlist?list=PLl76Nbkn-YmliBahGdtw8M5Q2hreDsn1m)
+  > This playlist contains videos for beginner programmers who want to get started with software development. I am covering all the basics you need to know before moving on to more advanced topics. \
+  > 20 videos 3,643 views Last updated on 21 Sept 2023
+  - [ ] 1. Backend Developer Roadmap - Everything you need to know in 2023 (101K views, 9 months ago, 6:52)
+  - [ ] 2. Stack vs Heap Memory - Simple Explanation (82K views, 1 year ago, 5:28)
+  - [ ] 3. SOLID Principles: Do You Really Understand Them? (46K views, 6 months ago, 7:04)
+  - [ ] 4. Bitwise Operators and WHY we use them (31K views, 1 year ago, 8:41)
+  - [ ] 5. 5 Design Patterns That Are ACTUALLY Used By Developers (15K views, 4 months ago, 9:27)
+  - [ ] 6. 5 Types of Testing Software Every Developer Needs to Know! (13K views, 10 months ago, 6:24)
+  - [ ] 7. Git Flow vs GitHub Flow: What You Need to Know (11K views, 1 year ago, 6:16)
+  - [ ] 8. 8 DATA STRUCTURES You NEED to Know (5.6K views, 1 year ago, 10:50)
+  - [ ] 9. This is a Better Way to Understand Recursion (5.3K views, 8 months ago, 4:03)
+  - [ ] 10. Top 5 Programming Languages to Learn in 2023 (to Get a Job) (4.4K views, 10 months ago, 5:23)
+  - [ ] 11. Idempotency - What it is and How to Implement it (3.4K views, 3 months ago, 8:05)
+  - [ ] 12. Binary Numbers: What Every Developer Should Know (but doesn't) (3.2K views, 1 year ago, 6:58)
+  - [ ] 13. What is Big O Notation, and Why You Should Care (1.6K views, 1 year ago, 7:30)
+  - [ ] 14. Bad at MATH? Can you be a Software Developer? (1.3K views, 1 year ago, 4:58)
+  - [ ] 15. CRUD Operations are Everywhere: DB and REST API Examples (1.2K views, 11 months ago, 4:31)
+  - [ ] 16. The BEST Programming Language to Learn as a Beginner in 2023 (1K views, 1 year ago, 4:17)
+  - [ ] 17. 6 Coding Concepts You MUST Know For Beginners (962 views, 1 year ago, 5:31)
+  - [ ] 18. Finally Understand Regular Expressions - In Just 7 Minutes! (836 views, 1 year ago, 7:26)
+  - [ ] 19. How I would learn to code in 2023 (if I could start over) (809 views, 1 year ago, 6:00)
+  - [ ] 20. Why You Struggle to Learn to Code (and How To Fix It) (458 views, 11 months ago, 4:28)
 
 ## Databases
 
