@@ -17,6 +17,7 @@
     - [Software development basics](#software-development-basics)
   - [Databases](#databases)
   - [Compilers](#compilers)
+  - [PROJECT IDEAS](#project-ideas)
   - [Learning platforms](#learning-platforms)
   - [YouTube channels](#youtube-channels)
   - [Curriculums](#curriculums)
@@ -251,14 +252,40 @@
   - [ ] 6. If and Scopes! (Compiler Pt.6) 12K views, 3 months ago, 1:09:45)
   - [ ] 7. Comments and Else! (Compiler Pt.7) 1.9K views, 2 days ago, 1:25:47)
 
+## PROJECT IDEAS
+
+- [x] [ThePrimeTime - Projects Every Programmer Should Try](https://www.youtube.com/watch?v=yeatOU5vVsA)
+- [x] [Austin Z. Henley - Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html)
+  - Text editor
+  - 2D game - Space Invaders
+  - Compiler - Tiny BASIC
+  - Mini operating system
+  - Spreadsheet (hard!)
+  - Video game console emulator (hard!)
+- [x] [Austin Z. Henley - More challenging projects every programmer should try](https://austinhenley.com/blog/morechallengingprojects.html)
+  - Ray tracer
+  - Key-value store web API
+  - Web browser
+  - Stock trading bot
+- [x] [Austin Z. Henley - Challenging algorithms and data structures every programmer should try](https://austinhenley.com/blog/challengingalgorithms.html)
+  - Topological sort
+  - Recursive descent parsing
+  - Myers string difference
+  - Bloom filter
+  - Piece table
+  - Splay tree
+
 ## Learning platforms
 
+- [CodeCrafters](https://codecrafters.io/) - paid, but [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) is free
 - [NeetCodeIO](https://neetcode.io/) - Data Structures and Algorithms for coding interviews; paid
 - [LeetCode](https://leetcode.com/) - most popular platform for practicing DA, DS, coding interviews
 - [Codecademy](https://www.codecademy.com/) - often have 50% discount (less then $90 USD)
+- [FreeCodeCamp](https://www.freecodecamp.org/) - free
+- [Exercism](https://exercism.io/) - free
+- [Educative.io](https://www.educative.io/) - paid
 - [Codewars](https://www.codewars.com/)
 - [CodeinGame](https://www.codingame.com/start)
-- [Exercism](https://exercism.io/)
 - [HackerRank](https://www.hackerrank.com/)
 - [Udemy](https://www.udemy.com/) - often have discounts (then, the price per course is ~$10-15 USD)
 - [Udacity](https://www.udacity.com/)
@@ -270,7 +297,6 @@
 - [Harvard Online](https://online-learning.harvard.edu/)
 - [Open Yale Courses](https://oyc.yale.edu/)
 - [Open Culture](https://www.openculture.com/freeonlinecourses)
-- [FreeCodeCamp](https://www.freecodecamp.org/) - free
 - [The Odin Project](https://www.theodinproject.com/)
 - [Code.org](https://code.org/)
 - [CodeCombat](https://codecombat.com/)
