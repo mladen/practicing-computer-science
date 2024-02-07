@@ -13,6 +13,7 @@
     - [Fun algorithms](#fun-algorithms)
   - [Assembly](#assembly)
   - [Software basics](#software-basics)
+    - [Software development general advice](#software-development-general-advice)
     - [Software development basics](#software-development-basics)
   - [Databases](#databases)
   - [Compilers](#compilers)
@@ -154,17 +155,52 @@
 
 ## Software basics
 
-- [V. Anton spraul - Think Like a Programmer (playlist)](https://www.youtube.com/playlist?list=PLKQ5LYb497AZIZe9dBWy8GwLluVaMQVj0)
-
-### Software development basics
+### Software development general advice
 
 - [Why You Should Learn To Program The Hard Way](https://www.youtube.com/watch?v=Qf56xUKbx24)
 - [Jonathan Blow on the Problem with Object Oriented](https://www.youtube.com/watch?v=04ksL1hf_p8)
 - [Jonathan Blow Clips - Jonathan Blow on Simplicity](https://www.youtube.com/watch?v=4oky64qN5WI)
 - [gamedev cuts - Jonathan Blow Gives Advice To His Younger Self](https://www.youtube.com/watch?v=EC3tRWOifMc)
+
+### Software development basics
+
+- [V. Anton spraul (playlist) - Think Like a Programmer](https://www.youtube.com/playlist?list=PLKQ5LYb497AZIZe9dBWy8GwLluVaMQVj0)
+
+  > V. Anton Spraul is an author and instructor who has taught software development to thousands of people. He has written several books on programming, including "Think Like a Programmer" and "How Software Works". \
+  >
+  > 22 videos 271,307 views Last updated on 7 Mar 2018
+
+  - [ ] 1. Think Like a Programmer: Introduction (180K views, 10 years ago, 4:33)
+  - [ ] 2. Puzzles & Programming Problems (Think Like a Programmer) (288K views, 10 years ago, 11:31)
+  - [ ] 3. The Blank Screen (Think Like a Programmer) (70K views, 10 years ago, 8:00)
+  - [ ] 4. Recursion (Think Like a Programmer) (153K views, 10 years ago, 10:42)
+  - [ ] 5. Solving a Programming Contest Problem, Part 1 of 2 (Think Like a Programmer) (49K views, 10 years ago, 9:23)
+  - [ ] 6. Solving a Programming Contest Problem, Part 2 of 2 (Think Like a Programmer) (24K views, 10 years ago, 8:37)
+  - [ ] 7. Spreadsheets & Programming (Think Like a Programmer) (19K views, 10 years ago, 11:57)
+  - [ ] 8. Different Approaches (Think Like a Programmer) (19K views, 9 years ago, 13:55)
+  - [ ] 9. Planning Your Problem Solving (Think Like a Programmer) (18K views, 9 years ago, 7:16)
+  - [ ] 10. Tackling a Real-World Problem, Part 1 of 2 (Think Like a Programmer) (19K views, 8 years ago, 4:56)
+  - [ ] 11. Think Like a Programmer: What It's All About (19K views, 9 years ago, 1:13)
+  - [ ] 12. Tackling a Real-World Problem, Part 2 of 2 (Think Like a Programmer) (8.5K views, 8 years ago, 8:46)
+  - [ ] 13. Performance & Efficiency (Think Like a Programmer) (6.1K views, 6 years ago, 13:13)
+  - [ ] 14. Divide & Conquer (Think Like a Programmer) (31K views, 7 years ago, 15:45)
+  - [ ] 15. Practical Big-O Notation (Think Like a Programmer) (5.3K views, 6 years ago, 13:00)
+  - [ ] 16. RUA Programmer? (Think Like a Programmer) (2.6K views, 6 years ago, 9:15)
+  - [ ] 17. Dynamic Programming (Think Like a Programmer) (67K views, 6 years ago, 14:39)
+  - [ ] 18. Bottom-Up Programming Solutions (Think Like a Programmer) (15K views, 6 years ago, 13:02)
+  - [ ] 19. The Peg Puzzle Solved (Think Like a Programmer) (9.1K views, 6 years ago, 15:38)
+  - [ ] 20. What Is an Algorithm? (21K views, 6 years ago, 7:55)
+  - [ ] 21. Backtracking (Think Like a Programmer) (299K views, 6 years ago, 13:02)
+  - [ ] 22. Finding the Best Path (Dijkstra's Algorithm) (12K views, 5 years ago, 17:14)
+
+- [Computer Science - Fundamental Concepts of Object Oriented Programming](https://www.youtube.com/watch?v=m_MQYyJpIjg)
+- [freeCodeCamp - Steven from NullPointer Exception - Intro to Object Oriented Programming - Crash Course](https://www.youtube.com/watch?v=SiBw7os-_zI)
 - [Alex Hyett - Programming for Beginners (playlist)](https://www.youtube.com/playlist?list=PLl76Nbkn-YmliBahGdtw8M5Q2hreDsn1m)
-  > This playlist contains videos for beginner programmers who want to get started with software development. I am covering all the basics you need to know before moving on to more advanced topics. \
+
+  > This playlist contains videos for beginner programmers who want to get started with software development. I am covering all the basics you need to know before moving on to more advanced topics.
+  >
   > 20 videos 3,643 views Last updated on 21 Sept 2023
+
   - [ ] 1. Backend Developer Roadmap - Everything you need to know in 2023 (101K views, 9 months ago, 6:52)
   - [ ] 2. Stack vs Heap Memory - Simple Explanation (82K views, 1 year ago, 5:28)
   - [ ] 3. SOLID Principles: Do You Really Understand Them? (46K views, 6 months ago, 7:04)
