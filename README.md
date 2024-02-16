@@ -5,6 +5,7 @@
 - [Learning Computer Science](#learning-computer-science)
   - [Table of Contents](#table-of-contents)
   - [General advices about learning CS](#general-advices-about-learning-cs)
+  - [Books](#books)
   - [Computer architecture](#computer-architecture)
   - [Computer science](#computer-science)
     - [Computer science (with Python) courses](#computer-science-with-python-courses)
@@ -28,6 +29,12 @@
 
 - [How to Learn Computer Science? (my answer on Quora)](https://www.quora.com/How-do-I-learn-computer-science-1/answer/Abhishek-Kumar-191)
 
+## Books
+
+- Classic Computer Science Problems in Python - David Kopec (2019, 1st edition, 224 pages, Manning)
+  - 4.4 stars from 142 ratings on Amazon
+  - [Amazon link](https://www.amazon.com/Classic-Computer-Science-Problems-Python/dp/1617295981)
+
 ## Computer architecture
 
 - [Computer Architecture - Full Course by Gate Smashers](https://www.youtube.com/watch?v=U0hTpFdEtgk)
@@ -36,16 +43,14 @@
   - [Reinventing the Processor](https://www.youtube.com/watch?v=rDnqmVnrZKs)
   - [why stack exists](https://www.youtube.com/watch?v=hKXNr8oAkk8)
 - [Alex Hyett](https://www.youtube.com/watch?v=5OJRqkYbK-4)
-
 - Khan Academy - Computer Science
 
 ## Computer science
 
 - That webside is a great source of knowledge about CS: [Computer Science Field Guide](https://www.csfieldguide.org.nz/en/index.html)
 - learncs.org - [LearnCS.org](https://www.learncs.org/)
-
 - [freeCodeCamp - Harvard CS50 – Full Computer Science University Course](https://www.youtube.com/watch?v=LfaMVlDaQ24)
-
+  > Recorded in 2023.!
   - Course Contents:
     - [ ] (00:00:00) Lecture 0 - Scratch
     - [ ] (02:05:47) Lecture 1 - C
@@ -59,8 +64,6 @@
     - [ ] (20:58:14) Lecture 9 - Flask
     - [ ] (23:19:07) Lecture 10 - Emoji
     - [ ] (25:05:28) Cybersecurity
-
-  Recorded in 2023.!
 
 ### Computer science (with Python) courses
 
@@ -277,7 +280,7 @@
 
 ## Learning platforms
 
-- [CodeCrafters](https://codecrafters.io/) - paid, but [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) is free
+- [CodeCrafters - Practice Writing Complex Software.](https://codecrafters.io/) - paid, but [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) is free
 - [NeetCodeIO](https://neetcode.io/) - Data Structures and Algorithms for coding interviews; paid
 - [LeetCode](https://leetcode.com/) - most popular platform for practicing DA, DS, coding interviews
 - [Codecademy](https://www.codecademy.com/) - often have 50% discount (less then $90 USD)
