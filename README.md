@@ -9,16 +9,23 @@
   - [Computer architecture](#computer-architecture)
   - [Computer science](#computer-science)
     - [Computer science (with Python) courses](#computer-science-with-python-courses)
+  - [Design Patterns](#design-patterns)
   - [Data Structures and Algorithms](#data-structures-and-algorithms)
     - [General advices about learning Data structures and Algorithms for coding interviews](#general-advices-about-learning-data-structures-and-algorithms-for-coding-interviews)
     - [Fun algorithms](#fun-algorithms)
   - [Assembly](#assembly)
+    - [General](#general)
+    - [Tutorials](#tutorials)
+    - [Projects](#projects)
+    - [Reverse engineering](#reverse-engineering)
   - [Software basics](#software-basics)
     - [Software development general advice](#software-development-general-advice)
     - [Software development basics](#software-development-basics)
   - [Databases](#databases)
   - [Compilers](#compilers)
+  - [PROGRAMMING PROBLEMS AND SOLUTIONS](#programming-problems-and-solutions)
   - [PROJECT IDEAS](#project-ideas)
+  - [Mathematics for programmers](#mathematics-for-programmers)
   - [Learning platforms](#learning-platforms)
   - [YouTube channels](#youtube-channels)
   - [Curriculums](#curriculums)
@@ -28,6 +35,7 @@
 ## General advices about learning CS
 
 - [How to Learn Computer Science? (my answer on Quora)](https://www.quora.com/How-do-I-learn-computer-science-1/answer/Abhishek-Kumar-191)
+- [ ] [Tech With Tim - What Self-Taught Developers NEVER Learn](https://www.youtube.com/watch?v=C64HXRU3GuQ)
 
 ## Books
 
@@ -49,6 +57,7 @@
 
 - That webside is a great source of knowledge about CS: [Computer Science Field Guide](https://www.csfieldguide.org.nz/en/index.html)
 - learncs.org - [LearnCS.org](https://www.learncs.org/)
+- [Wacky Science - COMPUTER SCIENCE explained in 17 Minutes](https://www.youtube.com/watch?v=CxGSnA-RTsA)
 - [freeCodeCamp - Harvard CS50 – Full Computer Science University Course](https://www.youtube.com/watch?v=LfaMVlDaQ24)
   > Recorded in 2023.!
   - Course Contents:
@@ -89,8 +98,16 @@
     - [ ] 16. Scaling Distributed Systems - Software Architecture Introduction (part 2) (124K views, 2 years ago, 6:34)
     - [ ] 17. Distributed Cache explained - Software Architecture Introduction (part 3) (58K views, 2 years ago, 4:00)
 
+## Design Patterns
+
+- [ ] [NeetCode - 8 Design Patterns EVERY Developer Should Know](https://www.youtube.com/watch?v=tAuRQs_d9F8)
+- [ ] [CodeAestetic - Dependency Injection, The Best Pattern](https://www.youtube.com/watch?v=J1f5b4vcxCQ)
+- [ ] [Fireship - Design Patterns in 100 Seconds](https://www.youtube.com/watch?v=NU_1HjBv7cc)
+- [ ] [Fireship - 10 Design Patterns Explained in 10 Minutes](https://www.youtube.com/watch?v=tv-_1er1mWI)
+
 ## Data Structures and Algorithms
 
+- [ForrestKnight - How Data Structures & Algorithms are Actually Used](https://www.youtube.com/watch?v=ALPWOiUKIjY)
 - [NeetCode - Top 6 Coding Interview Concepts (Data Structures & Algorithms)](https://www.youtube.com/watch?v=ft0owvS5tQA)
 - [NeetCode - Top 8 Data Structures for Coding Interviews](https://www.youtube.com/watch?v=uhYq27iSk9s)
 - [Power Couple - Top 5 Data Structures they asked me in 127 interviews](https://www.youtube.com/watch?v=DDRo29ptFwE)
@@ -108,9 +125,11 @@
 - [Codebagel - Top 7 Algorithms for Coding Interviews Explained SIMPLY](https://www.youtube.com/watch?v=kp3fCihUXEg)
 - [Codebagel - Top 7 Data Structures for Interviews Explained SIMPLY](https://www.youtube.com/watch?v=cQWr9DFE1ww)
 - [Aaron Jack - DATA STRUCTURES you MUST know (as a Software Developer)](https://www.youtube.com/watch?v=sVxBVvlnJsM)
+- [Coding with Lewis - 10 Sorting Algorithms Easily Explained](https://www.youtube.com/watch?v=rbbTd-gkajw)
 - [Rachel Singh - Rachel's intro to Data Structures lectures (playlist)](https://www.youtube.com/playlist?list=PL9Kj-MdBMaPCftXvfwNxNc83wsgKAFO5G)
-- https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed - Fatim ul Haq (Ex-Microsoft, Ex-Facebook. Co-founder at Educative.io)
-- https://hackernoon.com/5-to-23-patterns-to-ace-any-coding-interview
+- [(text) Austin Z. Henley - Challenging algorithms and data structures every programmer should try](https://austinhenley.com/blog/challengingalgorithms.html)
+- [(text) Fatim ul Haq (Ex-Microsoft, Ex-Facebook. Co-founder at Educative.io) - 14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+- [(text) John Vandivier - 5 to 23 Patterns to Ace Any Coding Interview](https://hackernoon.com/5-to-23-patterns-to-ace-any-coding-interview)
 - [Leetcode Kata](https://www.youtube.com/watch?v=tlIzxtjRW7c)
 - [CS Dojo - Data structures and Algorithms](https://www.youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
   - [ ] 1. Data Structures & Algorithms #1 - What Are Data Structures? (2.1M views, 5 years ago, 16:35)
@@ -148,14 +167,25 @@
 
 ## Assembly
 
+### General
+
 - [Fireship - Assembly Language in 100 Seconds](https://www.youtube.com/watch?v=4gwYkEK0gOk)
 - [Low Level Learning - you can learn assembly FAST with this technique (arm64 breakdown)](https://www.youtube.com/watch?v=vhyettT7sdA)
+
+### Tutorials
 
 - [root42 - Let's Code - x86 Assembly (playlist)](https://www.youtube.com/playlist?list=PLGJnX2KGgaw1Vbtm7fEZT5XslBH302SWs)
 - [Davy Wybiral - Assembly Programming Tutorial (playlist)](https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe)
 - [HackUCF - x86 Assembly Crash Course](https://www.youtube.com/watch?v=75gBFiFtAb8)
 
+### Projects
+
 - [Nathan Baggs - I made the same game in Assembly, C and C++](https://www.youtube.com/watch?v=2eeXj-ck9VA)
+
+### Reverse engineering
+
+- [Low Level Learning - everything is open source if you can reverse engineer (try it RIGHT NOW!)](https://www.youtube.com/watch?v=gh2RXE9BIN8)
+- [Low Level Learning - unlock the lowest levels of coding](https://www.youtube.com/watch?v=97i2BAUw5Xc)
 
 ## Software basics
 
@@ -255,9 +285,26 @@
   - [ ] 6. If and Scopes! (Compiler Pt.6) 12K views, 3 months ago, 1:09:45)
   - [ ] 7. Comments and Else! (Compiler Pt.7) 1.9K views, 2 days ago, 1:25:47)
 
+## PROGRAMMING PROBLEMS AND SOLUTIONS
+
+- [ ] [Tech With Tim - Programming Problems & Solutions](https://www.youtube.com/playlist?list=PLzMcBGfZo4-l73euhrUu0exrXc_1HQPV0)
+  - [ ] 1. Programming Problem #1 - Alphabet Soup (Beginner/Novice) (12K views, 5 years ago, 14:48)
+  - [ ] 2. Programming Problem #2 - Magic Squares (Novice/Intermediate) (13K views, 5 years ago, 15:07)
+  - [ ] 3. Programming Problem #3 - Geneva Confection (Intermidiate) (2.7K views, 5 years ago, 16:40)
+  - [ ] 4. Programming Problem #4 - A Set of Beginner Coding Problems & Solutions (4.9K views, 4 years ago, 14:54)
+  - [ ] 5. Programming Problem #5 - String Compression/Encryption (Intermediate) (2.1K views, 4 years ago, 13:53)
+  - [ ] 6. Programming Problem #6 - Maze Traversal (Advanced) (3.5K views, 4 years ago, 20:59)
+  - [ ] 7. Programming Problem #7 - Tandem Bicycle (Intermediate) (2.6K views, 4 years ago, 11:41)
+  - [ ] 8. Programming Problem #8 - Tree Data Structure Traversal (2.7K views, 4 years ago, 22:50)
+  - [ ] 9. Programming Problem #9 - Tower of Hanoi (16K views, 4 years ago, 15:28)
+  - [ ] 10. Coding Interview Question & Solution (Python) - Water Trapped Between Pipes (7.9K views, 4 years ago, 13:18)
+  - [ ] 11. Python Coding Interview Preparation - For Beginners (54K views, 4 years ago, 14:23)
+  - [ ] 12. Python Coding Interview Practice - Difficulty: Hard (124K views, 4 years ago, 22:05)
+
 ## PROJECT IDEAS
 
 - [x] [ThePrimeTime - Projects Every Programmer Should Try](https://www.youtube.com/watch?v=yeatOU5vVsA)
+  - [x] [(text) Austin Z. Henley - Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html)
 - [x] [Austin Z. Henley - Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html)
   - Text editor
   - 2D game - Space Invaders
@@ -277,6 +324,19 @@
   - Bloom filter
   - Piece table
   - Splay tree
+- [ ] [The Coding Sloth - 20 Programming Projects That Will Make You A God At Coding](https://www.youtube.com/watch?v=jTJvyKZDFsY)
+
+## Mathematics for programmers
+
+- [ ] [Fireship - 10 Math Concepts for Programmers](https://www.youtube.com/watch?v=bOCHTHkBoAs)
+- [ ] [Hex 16 - Learn Discrete Math? 5 Applications to Persuade You](https://www.youtube.com/watch?v=o3w74cVi37o)
+- [ ] [Brendan Galea - The Math behind (most) 3D games - Perspective Projection](https://www.youtube.com/watch?v=U0_ONQQ5ZNM)
+- [ ] [Madbook - Essential Maths For Beginner Gamedevs - Which Math is Useful?](https://www.youtube.com/watch?v=iPWWrM81z-o)
+- [ ] [Josh's Channel - In Video Games, The Player Never Moves](https://www.youtube.com/watch?v=wiYTxjJjfxs)
+- [ ] [Miolith - Quick Understanding of Homogeneous Coordinates for Computer Graphics](https://www.youtube.com/watch?v=o-xwmTODTUI)
+- [ ] [Manifolds in Maryland - Rotations in 3D Graphics With Quaternions](https://www.youtube.com/watch?v=yaZJnQpXWCE)
+- [ ] [PenguinMaths - How quaternions produce 3D rotation](https://www.youtube.com/watch?v=jTgdKoQv738)
+- [ ] [3Blue1Brown - Quaternions and 3d rotation, explained interactively](https://www.youtube.com/watch?v=zjMuIxRvygQ)
 
 ## Learning platforms
 
@@ -319,6 +379,7 @@
 
 - [NeetCodeIO - Coding Interviews made Simple](https://www.youtube.com/@NeetCodeIO/playlists)
 - [ComputerScienceLessons](https://www.youtube.com/@ComputerScienceLessons)
+- [CodeAestetic](https://www.youtube.com/@CodeAestetic)
 
 ## Curriculums
 
@@ -340,3 +401,4 @@
 ## Other
 
 - [Some good links](https://medium.com/@Satishes/i-want-to-learn-computer-engineering-b01837971f50)
+- [Low Level Learning - zig is the future of programming. here's why.](https://www.youtube.com/watch?v=pnnx1bkFXng)
