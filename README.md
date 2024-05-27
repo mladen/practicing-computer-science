@@ -21,6 +21,7 @@
   - [Software basics](#software-basics)
     - [Software development general advice](#software-development-general-advice)
     - [Software development basics](#software-development-basics)
+    - [Software development tools (Git, Docker, etc.)](#software-development-tools-git-docker-etc)
   - [Databases](#databases)
   - [Compilers](#compilers)
   - [PROGRAMMING PROBLEMS AND SOLUTIONS](#programming-problems-and-solutions)
@@ -191,14 +192,16 @@
 
 ### Software development general advice
 
-- [Why You Should Learn To Program The Hard Way](https://www.youtube.com/watch?v=Qf56xUKbx24)
-- [Jonathan Blow on the Problem with Object Oriented](https://www.youtube.com/watch?v=04ksL1hf_p8)
-- [Jonathan Blow Clips - Jonathan Blow on Simplicity](https://www.youtube.com/watch?v=4oky64qN5WI)
-- [gamedev cuts - Jonathan Blow Gives Advice To His Younger Self](https://www.youtube.com/watch?v=EC3tRWOifMc)
+- [ ] [Why You Should Learn To Program The Hard Way](https://www.youtube.com/watch?v=Qf56xUKbx24)
+- [ ] [Jonathan Blow on the Problem with Object Oriented](https://www.youtube.com/watch?v=04ksL1hf_p8)
+- [ ] [Jonathan Blow Clips - Jonathan Blow on Simplicity](https://www.youtube.com/watch?v=4oky64qN5WI)
+- [ ] [gamedev cuts - Jonathan Blow Gives Advice To His Younger Self](https://www.youtube.com/watch?v=EC3tRWOifMc)
 
 ### Software development basics
 
-- [V. Anton spraul (playlist) - Think Like a Programmer](https://www.youtube.com/playlist?list=PLKQ5LYb497AZIZe9dBWy8GwLluVaMQVj0)
+- [ ] [(text) People Don't Understand OOP](https://blog.sigma-star.io/2024/01/people-dont-understand-oop/)
+  - [ ] [ThePrimeTime - You dont know OOP](https://www.youtube.com/watch?v=VRlIGV4gl5Q)
+- [ ] [V. Anton spraul (playlist) - Think Like a Programmer](https://www.youtube.com/playlist?list=PLKQ5LYb497AZIZe9dBWy8GwLluVaMQVj0)
 
   > V. Anton Spraul is an author and instructor who has taught software development to thousands of people. He has written several books on programming, including "Think Like a Programmer" and "How Software Works". \
   >
@@ -227,9 +230,9 @@
   - [ ] 21. Backtracking (Think Like a Programmer) (299K views, 6 years ago, 13:02)
   - [ ] 22. Finding the Best Path (Dijkstra's Algorithm) (12K views, 5 years ago, 17:14)
 
-- [Computer Science - Fundamental Concepts of Object Oriented Programming](https://www.youtube.com/watch?v=m_MQYyJpIjg)
-- [freeCodeCamp - Steven from NullPointer Exception - Intro to Object Oriented Programming - Crash Course](https://www.youtube.com/watch?v=SiBw7os-_zI)
-- [Alex Hyett - Programming for Beginners (playlist)](https://www.youtube.com/playlist?list=PLl76Nbkn-YmliBahGdtw8M5Q2hreDsn1m)
+- [ ] [Computer Science - Fundamental Concepts of Object Oriented Programming](https://www.youtube.com/watch?v=m_MQYyJpIjg)
+- [ ] [freeCodeCamp - Steven from NullPointer Exception - Intro to Object Oriented Programming - Crash Course](https://www.youtube.com/watch?v=SiBw7os-_zI)
+- [ ] [Alex Hyett - Programming for Beginners (playlist)](https://www.youtube.com/playlist?list=PLl76Nbkn-YmliBahGdtw8M5Q2hreDsn1m)
 
   > This playlist contains videos for beginner programmers who want to get started with software development. I am covering all the basics you need to know before moving on to more advanced topics.
   >
@@ -255,6 +258,18 @@
   - [ ] 18. Finally Understand Regular Expressions - In Just 7 Minutes! (836 views, 1 year ago, 7:26)
   - [ ] 19. How I would learn to code in 2023 (if I could start over) (809 views, 1 year ago, 6:00)
   - [ ] 20. Why You Struggle to Learn to Code (and How To Fix It) (458 views, 11 months ago, 4:28)
+
+### Software development tools (Git, Docker, etc.)
+
+- [ ] [Fireship - 13 Advanced (but useful) Git Techniques and Shortcuts](https://www.youtube.com/watch?v=ecK3EnyGD8o)
+- [ ] [The Modern Coder - Git MERGE vs REBASE: The Definitive Guide](https://www.youtube.com/watch?v=zOnwgxiC0OA)
+- [ ] [The Modern Coder - Git PULL vs FETCH](https://www.youtube.com/watch?v=T13gDBXarj0)
+- [ ] [Philomatics - Never\* use git pull](https://www.youtube.com/watch?v=xN1-2p06Urc)
+- [ ] [Cameron McKenzie - Git Fetch vs Git Pull? Which one should you choose?](https://www.youtube.com/watch?v=GOrhB6eYASU)
+- [ ] [ByteByteGo - How Git Works: Explained in 4 Minutes](https://www.youtube.com/watch?v=e9lnsKot_SQ)
+- [ ] [ByteByteGo - Git MERGE vs REBASE: Everything You Need to Know](https://www.youtube.com/watch?v=0chZFIZLR_0)
+- [ ] [Devchild - The gitflow workflow - in less than 5 mins.](https://www.youtube.com/watch?v=1SXpE08hvGs)
+- [ ] [Changelog - Git is awful. GitHub isn't good enough. It's killing us! (Steve Yegge)](https://www.youtube.com/watch?v=EReooAZoMO0)
 
 ## Databases
 
@@ -303,9 +318,8 @@
 
 ## PROJECT IDEAS
 
-- [x] [ThePrimeTime - Projects Every Programmer Should Try](https://www.youtube.com/watch?v=yeatOU5vVsA)
-  - [x] [(text) Austin Z. Henley - Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html)
 - [x] [Austin Z. Henley - Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html)
+  - [x] [ThePrimeTime - Projects Every Programmer Should Try](https://www.youtube.com/watch?v=yeatOU5vVsA)
   - Text editor
   - 2D game - Space Invaders
   - Compiler - Tiny BASIC
