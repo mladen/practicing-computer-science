@@ -35,8 +35,9 @@
 
 ## General advices about learning CS
 
-- [How to Learn Computer Science? (my answer on Quora)](https://www.quora.com/How-do-I-learn-computer-science-1/answer/Abhishek-Kumar-191)
+- [ ] [How to Learn Computer Science? (my answer on Quora)](https://www.quora.com/How-do-I-learn-computer-science-1/answer/Abhishek-Kumar-191)
 - [ ] [Tech With Tim - What Self-Taught Developers NEVER Learn](https://www.youtube.com/watch?v=C64HXRU3GuQ)
+- [ ] [CodeAestetic - Naming Things in Code](https://www.youtube.com/watch?v=-J3wNP6u5YU)
 
 ## Books
 
@@ -192,6 +193,7 @@
 
 ### Software development general advice
 
+- [ ] [ColorCode - 10 Coding Tips for beginner Developers](https://www.youtube.com/watch?v=-fhLersdU8A)
 - [ ] [Why You Should Learn To Program The Hard Way](https://www.youtube.com/watch?v=Qf56xUKbx24)
 - [ ] [Jonathan Blow on the Problem with Object Oriented](https://www.youtube.com/watch?v=04ksL1hf_p8)
 - [ ] [Jonathan Blow Clips - Jonathan Blow on Simplicity](https://www.youtube.com/watch?v=4oky64qN5WI)
@@ -265,11 +267,15 @@
 - [ ] [The Modern Coder - Git MERGE vs REBASE: The Definitive Guide](https://www.youtube.com/watch?v=zOnwgxiC0OA)
 - [ ] [The Modern Coder - Git PULL vs FETCH](https://www.youtube.com/watch?v=T13gDBXarj0)
 - [ ] [Philomatics - Never\* use git pull](https://www.youtube.com/watch?v=xN1-2p06Urc)
+- [ ] [Philomatics - Never fear merge conflicts again - git merge/pull tutorial](https://www.youtube.com/watch?v=DloR0BOGNU0)
 - [ ] [Cameron McKenzie - Git Fetch vs Git Pull? Which one should you choose?](https://www.youtube.com/watch?v=GOrhB6eYASU)
 - [ ] [ByteByteGo - How Git Works: Explained in 4 Minutes](https://www.youtube.com/watch?v=e9lnsKot_SQ)
 - [ ] [ByteByteGo - Git MERGE vs REBASE: Everything You Need to Know](https://www.youtube.com/watch?v=0chZFIZLR_0)
 - [ ] [Devchild - The gitflow workflow - in less than 5 mins.](https://www.youtube.com/watch?v=1SXpE08hvGs)
 - [ ] [Changelog - Git is awful. GitHub isn't good enough. It's killing us! (Steve Yegge)](https://www.youtube.com/watch?v=EReooAZoMO0)
+- [ ] [Travis Media - 7 Git Tips To Overcome Your Fear of Version Control](https://www.youtube.com/watch?v=TPyfM8ns_MY)
+- [ ] [typecraft - I'm never using Git the same way again](https://www.youtube.com/watch?v=TLNdwvIFoCg)
+- [ ] [Chris Titus Tech - Github Mistakes and What I Wish I Knew Sooner](https://www.youtube.com/watch?v=djPC_hBKl3I)
 
 ## Databases
 
