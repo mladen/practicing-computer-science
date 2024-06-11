@@ -22,6 +22,7 @@
     - [Software development general advice](#software-development-general-advice)
     - [Software development basics](#software-development-basics)
     - [Software development tools (Git, Docker, etc.)](#software-development-tools-git-docker-etc)
+  - [Object Oriented Programming](#object-oriented-programming)
   - [Databases](#databases)
   - [Compilers](#compilers)
   - [PROGRAMMING PROBLEMS AND SOLUTIONS](#programming-problems-and-solutions)
@@ -201,8 +202,6 @@
 
 ### Software development basics
 
-- [ ] [(text) People Don't Understand OOP](https://blog.sigma-star.io/2024/01/people-dont-understand-oop/)
-  - [ ] [ThePrimeTime - You dont know OOP](https://www.youtube.com/watch?v=VRlIGV4gl5Q)
 - [ ] [V. Anton spraul (playlist) - Think Like a Programmer](https://www.youtube.com/playlist?list=PLKQ5LYb497AZIZe9dBWy8GwLluVaMQVj0)
 
   > V. Anton Spraul is an author and instructor who has taught software development to thousands of people. He has written several books on programming, including "Think Like a Programmer" and "How Software Works". \
@@ -232,8 +231,6 @@
   - [ ] 21. Backtracking (Think Like a Programmer) (299K views, 6 years ago, 13:02)
   - [ ] 22. Finding the Best Path (Dijkstra's Algorithm) (12K views, 5 years ago, 17:14)
 
-- [ ] [Computer Science - Fundamental Concepts of Object Oriented Programming](https://www.youtube.com/watch?v=m_MQYyJpIjg)
-- [ ] [freeCodeCamp - Steven from NullPointer Exception - Intro to Object Oriented Programming - Crash Course](https://www.youtube.com/watch?v=SiBw7os-_zI)
 - [ ] [Alex Hyett - Programming for Beginners (playlist)](https://www.youtube.com/playlist?list=PLl76Nbkn-YmliBahGdtw8M5Q2hreDsn1m)
 
   > This playlist contains videos for beginner programmers who want to get started with software development. I am covering all the basics you need to know before moving on to more advanced topics.
@@ -276,6 +273,15 @@
 - [ ] [Travis Media - 7 Git Tips To Overcome Your Fear of Version Control](https://www.youtube.com/watch?v=TPyfM8ns_MY)
 - [ ] [typecraft - I'm never using Git the same way again](https://www.youtube.com/watch?v=TLNdwvIFoCg)
 - [ ] [Chris Titus Tech - Github Mistakes and What I Wish I Knew Sooner](https://www.youtube.com/watch?v=djPC_hBKl3I)
+
+## Object Oriented Programming
+
+> NOTE: Check out other sections of this README for more resources about OOP.
+
+- [ ] [Computer Science - Fundamental Concepts of Object Oriented Programming](https://www.youtube.com/watch?v=m_MQYyJpIjg)
+- [ ] [freeCodeCamp - Steven from NullPointer Exception - Intro to Object Oriented Programming - Crash Course](https://www.youtube.com/watch?v=SiBw7os-_zI)
+- [ ] [(text) People Don't Understand OOP](https://blog.sigma-star.io/2024/01/people-dont-understand-oop/)
+  - [ ] [ThePrimeTime - You dont know OOP](https://www.youtube.com/watch?v=VRlIGV4gl5Q)
 
 ## Databases
 
