@@ -280,6 +280,28 @@
 
 - [ ] [Computer Science - Fundamental Concepts of Object Oriented Programming](https://www.youtube.com/watch?v=m_MQYyJpIjg)
 - [ ] [freeCodeCamp - Steven from NullPointer Exception - Intro to Object Oriented Programming - Crash Course](https://www.youtube.com/watch?v=SiBw7os-_zI)
+
+  - Encapsulation - refers to **bundling data with methods** that can operate on that data within a class. \
+    Essentially, it is the idea of **hiding data** within a class, **preventing anything outside that class from directly interacting with it**. \
+    This **does not mean** than members of other classes cannot interact at all with the attributes of another object. \
+    Members of other classes can **interact with the attributes of another object through it's methods**. \
+    Remember, methods are the **functions defined within the class**. \
+    In practice, one way this tends to work, is by creating **getting** and **setting** methods. These methods act to either **get** information from an object, or **set** attributes to different values. \
+
+    - Encapsulation - information hiding \
+      You may also want some attributes to be **read-only** from the outside:
+
+      - To do this, you would **define a getter method** _but not a setter method_.
+      - The variable could **only be referenced**, _not changed_.
+
+      It is generally best to not allow **external classes** to **directly edit an object's attributes**. This is very important when working on large and complex programs. Each piece should not **have access to** or **rely on** the **inner workings of other sections of code**. \
+      **Information hiding**, or keeping the data of one class hidden from external classes, helps you **keep control of your program** and **prevent it from becoming too complicated**.
+
+    - Encapsulation - overview \
+      Encapsulation is a vital principle in Object-Oriented Programming. \
+      Encapsulation:
+      - Keeps the programmer in control of access to data
+      - Prevents the program from ending up in any **strange or unwanted states**
 - [ ] [(text) People Don't Understand OOP](https://blog.sigma-star.io/2024/01/people-dont-understand-oop/)
   - [ ] [ThePrimeTime - You dont know OOP](https://www.youtube.com/watch?v=VRlIGV4gl5Q)
 
