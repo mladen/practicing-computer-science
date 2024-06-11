@@ -302,6 +302,8 @@
       Encapsulation:
       - Keeps the programmer in control of access to data
       - Prevents the program from ending up in any **strange or unwanted states**
+
+- [ ] [freeCodeCamp Talks - Object Oriented Programming is not what I thought - Talk by Anjana Vakil](https://www.youtube.com/watch?v=TbP2B1ijWr8)
 - [ ] [(text) People Don't Understand OOP](https://blog.sigma-star.io/2024/01/people-dont-understand-oop/)
   - [ ] [ThePrimeTime - You dont know OOP](https://www.youtube.com/watch?v=VRlIGV4gl5Q)
 
@@ -373,6 +375,7 @@
   - Piece table
   - Splay tree
 - [ ] [The Coding Sloth - 20 Programming Projects That Will Make You A God At Coding](https://www.youtube.com/watch?v=jTJvyKZDFsY)
+- [ ] [Nand2Tetris](https://www.nand2tetris.org/) [HARD but VERY INTERESTING]
 
 ## Mathematics for programmers
 
