@@ -354,6 +354,52 @@
 
 ## PROJECT IDEAS
 
+- [x] [Wojtek Dzierzkowski - 6 Programming Projects to Land a Job](https://www.youtube.com/watch?v=Hsdb5UiUlCU)
+  - First 3 projects (learning the core language features and basic syntax to solve simple problems)
+    - These projects are for you to learn
+      - Basic syntax
+      - Control flow statements
+      - Basic data structures
+      - Solving simple problems
+    - Requirements
+      - Use only a programming language. No libraries / no frameworks!
+      - Less than 5 classes or less then 250 lines of code. Try to keep it simple.
+      - Solve 1 problem.
+      - For backend languages - don't create a UI! It's a waste of time! Use console.
+    - Project ideas
+      - Random name generator
+      - Duplicate text checker
+      - Password generator
+  - Next 2 projects (to learn to use just one(!) framework, how to simplify things and let us solve problems easaly)
+    - These projects are for you to learn
+      - How to use the framework
+      - Framework features
+      - To use framework the way it was intended to be used
+    - Requirements
+      - Use the choosen framework (only one!)
+      - Less than 10 classes or less then 500 lines of code. Try to keep it simple.
+      - Solve 1 major problem and many minor problems.
+      - For backend languages - don't create a UI! It's a waste of time! Use API.
+      - Add Unit tests.
+    - Project ideas
+      - Finance tracker
+      - Event registration system
+  - Final project
+    - This project is for you to learn
+      - To use framework the way it was intended to be used.
+      - To integrate multiple pieces.
+      - To provide solution to real world problem.
+    - Requirements
+      - Use the choosen framework (only one!) + add a Database.
+      - Use external APIs
+      - More than 10 classes and more than 500 lines of code.
+      - Solve multiple major problems
+      - For backend languages - create an API - but don't create a UI! It's a waste of time! Use API.
+      - Add Unit and Integration tests.
+    - Project ideas
+      - Blog API
+      - Library API
+      - Authentication system API (more technical)
 - [x] [Austin Z. Henley - Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html)
   - [x] [ThePrimeTime - Projects Every Programmer Should Try](https://www.youtube.com/watch?v=yeatOU5vVsA)
   - Text editor
