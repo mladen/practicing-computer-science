@@ -23,7 +23,7 @@
     - [Software development general advice](#software-development-general-advice)
     - [Software development basics](#software-development-basics)
     - [Software development tools (Git, Docker, etc.)](#software-development-tools-git-docker-etc)
-  - [Object Oriented Programming](#object-oriented-programming)
+    - [Object Oriented Programming](#object-oriented-programming)
   - [Databases](#databases)
   - [Compilers](#compilers)
   - [PROGRAMMING PROBLEMS AND SOLUTIONS](#programming-problems-and-solutions)
@@ -283,10 +283,12 @@
 - [ ] [typecraft - I'm never using Git the same way again](https://www.youtube.com/watch?v=TLNdwvIFoCg)
 - [ ] [Chris Titus Tech - Github Mistakes and What I Wish I Knew Sooner](https://www.youtube.com/watch?v=djPC_hBKl3I)
 
-## Object Oriented Programming
+### Object Oriented Programming
 
 > NOTE: Check out other sections of this README for more resources about OOP.
 
+- [ ] [Programming with Mosh - Object Oriented Programming in 7 minutes](https://www.youtube.com/watch?v=pTB0EiLXUC8)
+- [ ] [Keep on Coding - Object Oriented Programming - The Four Pillars of OOP](https://www.youtube.com/watch?v=1ONhXmQuWP8)
 - [ ] [Computer Science - Fundamental Concepts of Object Oriented Programming](https://www.youtube.com/watch?v=m_MQYyJpIjg)
 - [ ] [freeCodeCamp - Steven from NullPointer Exception - Intro to Object Oriented Programming - Crash Course](https://www.youtube.com/watch?v=SiBw7os-_zI)
 
