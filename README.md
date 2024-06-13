@@ -7,6 +7,7 @@
   - [General advices about learning CS](#general-advices-about-learning-cs)
   - [Books](#books)
   - [Computer architecture](#computer-architecture)
+  - [Software architecture](#software-architecture)
   - [Computer science](#computer-science)
     - [Computer science (with Python) courses](#computer-science-with-python-courses)
   - [Design Patterns](#design-patterns)
@@ -53,8 +54,16 @@
 - kimylamp - the Machine Code Essentials series (playlist in works)
   - [Reinventing the Processor](https://www.youtube.com/watch?v=rDnqmVnrZKs)
   - [why stack exists](https://www.youtube.com/watch?v=hKXNr8oAkk8)
-- [Alex Hyett](https://www.youtube.com/watch?v=5OJRqkYbK-4)
 - Khan Academy - Computer Science
+
+## Software architecture
+
+- [ ] [Alex Hyett - Software Architecture](https://www.youtube.com/playlist?list=PLl76Nbkn-YmklOA9tlx9yDhg6NrAZLo0G)
+  - [ ] 1. 5 Design Patterns That Are ACTUALLY Used By Developers (184K views, 9 months ago, 9:27)
+  - [ ] 2. Domain Driven Design: What You Need To Know (95K views, 1 year ago, 8:42)
+  - [ ] 3. Event-Driven Architecture: Explained in 7 Minutes! (82K views, 1 year ago, 7:18)
+  - [ ] 4. Hexagonal Architecture: What You Need To Know - Simple Explanation (67K views, 1 year ago, 8:16)
+  - [ ] 5. Monolithic vs Microservice Architecture: Which To Use and When? (62K views, 1 year ago, 10:43)
 
 ## Computer science
 
