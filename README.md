@@ -296,11 +296,14 @@
   > **Abstraction** is the idea of hiding the complex implementation details of a class and only showing the necessary features of an object. We do this by creating an interface through which classes can interact with one another. \
 
   - Encapsulation - refers to **bundling data with methods** that can operate on that data within a class. \
-    Essentially, it is the idea of **hiding data** within a class, **preventing anything outside that class from directly interacting with it**. \
+
+    > TODO: Check out the **chess** example from the video.
+
+    Essentially, it is the idea of ~~**hiding data** within a class~~, **preventing anything outside that class from directly interacting with it** (read about setters and getters below). \
     This **does not mean** than members of other classes cannot interact at all with the attributes of another object. \
     Members of other classes can **interact with the attributes of another object through it's methods**. \
     Remember, methods are the **functions defined within the class**. \
-    In practice, one way this tends to work, is by creating **getting** and **setting** methods. These methods act to either **get** information from an object, or **set** attributes to different values. \
+    In practice, one way this tends to work, is by creating **getting** and **setting** methods. These methods act to either **get** information from an object, or **set** attributes to different values.
 
     - Encapsulation - information hiding \
       You may also want some attributes to be **read-only** from the outside:
@@ -316,6 +319,28 @@
       Encapsulation:
       - Keeps the programmer in control of access to data
       - Prevents the program from ending up in any **strange or unwanted states**
+
+  - Abstraction - refers to the **process of hiding the complex implementation details** of a class and only showing the necessary features of an object.
+
+    > TODO: Check out the **car** example from the video.
+
+    The classes you create should act like your car. Users of your classes should not worry about the inner details of those classes. \
+    This is similar to encapsulation that was discussed earlier. Classes should **not directly interact** with other classes' data (with it's data store). Rather, have them use the classes' methods to access their data. \
+    This idea is very important when working on your program incrementally, where you focus on one class at a time and ensure that it works. This is a very useful approach as it can be difficult for you to focus in the big picture while programming and splitting up your project into smaller chunks can make it much more manageable. Furthermore, programs nowadays are very complex to the point where **multiple programmers tend to work on one program/project**. In this case, it's best if the section that you work on is able to function without knowledge of the inner workings of your colleague's section.
+
+    - Abstraction - Interface and Implementation \
+      To achieve the previous, it's best to think of your program in terms of **interface and implementation**. \
+      **The interface** refers to the way sections of code can **communicate with one another**. This is typically done through **methods** that each class is able to call/access. \
+      **The implementation** refers to the **inner workings** of the class (how these methods are coded). This is the **data** and **methods** that should be **hidden** (from other classes), within the class.
+
+      > TODO: Check out the car + chess examples from the video.
+
+      If classes are **entangles**, then one change creates a **ripple effect that causes many more changes**. \
+      Creating a set interface through which classes can interact with one another, and hiding the implementation details, can **prevent this ripple effect** so that **each (chess) piece can be individually developed**.
+
+    - Abstraction - overview \
+      Abstraction **allows the program to be worked on incrementally** and prevents it from becoming entangled and complex. \
+      Determine **specific points of contact** that can act as an interface between classes, and **only worry about the implementation when coding it**.
 
 - [ ] [freeCodeCamp Talks - Object Oriented Programming is not what I thought - Talk by Anjana Vakil](https://www.youtube.com/watch?v=TbP2B1ijWr8)
 - [ ] [(text) People Don't Understand OOP](https://blog.sigma-star.io/2024/01/people-dont-understand-oop/)
