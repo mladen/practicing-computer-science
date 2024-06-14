@@ -296,6 +296,7 @@
   > **Encapsulation** is the idea of bundling data with methods that can operate on that data within a class. \
   > Other classes should not directly interact with the data of another class. That's why we should use getters and setters. Basically we a hiding the data (attributes/fields/private variables) of a class from other classes. \
   > **Abstraction** is the idea of hiding the complex implementation details of a class and only showing the necessary features of an object. We do this by creating an interface through which classes can interact with one another. \
+  > **Inheritance** is the principle that allows classes to derive from other classes. \
 
   - Encapsulation - refers to **bundling data with methods** that can operate on that data within a class. \
 
@@ -343,6 +344,83 @@
     - Abstraction - overview \
       Abstraction **allows the program to be worked on incrementally** and prevents it from becoming entangled and complex. \
       Determine **specific points of contact** that can act as an interface between classes, and **only worry about the implementation when coding it**.
+
+  - Inheritance - is the principle that allows classes to derive from other classes
+
+    > TODO: Check out the **game** example from the video. \
+    > Here is an overview of the example: \
+    > The **Weapon** class is the **base class** (also called **superclass**). It has two attributes: **name** and **damageType**. It also has a method **attack()**. \
+    > This class contains methods and attributes that are common to all weapons.
+    >
+    > An example for **damageType** for a sword could be **sharp**. \
+    > weapon.damageType = "sharp" \
+    > An example for **damageType** for a club could be **blunt**. \
+    > weapon.damageType = "blunt" \
+    > These differences would be represented in different values for their attributes as well as possibly different attributes altogether. However, they would still have the same methods and attributes that are common to all weapons (because they are both members of the Weapons class).
+
+    ```mermaid
+    ---
+    title: Inheritance example
+    ---
+    classDiagram
+      class Weapon {
+        + name: string
+        + damageType: number
+        + attack(): void
+      }
+
+      class Sword {
+        + name: string
+        + damageType: number
+        + attack(): void
+      }
+
+      class Club {
+        + name: string
+        + damageType: number
+        + attack(): void
+      }
+
+      Weapon <|-- Sword
+      Weapon <|-- Club
+
+    ```
+
+    > The **Weapon** is the **superclass** or **base class**. The **Sword** and **Club** classes are **subclasses** of the **Weapon** class. They **inherit** the attributes and methods of the **Weapon** class! \
+
+    ```mermaid
+    ---
+    title: Inheritance example
+    ---
+    classDiagram
+      class Superclass {
+      }
+
+      class SubclassX {
+      }
+
+      class SubclassY {
+      }
+
+      Superclass <|-- SubclassX
+      Superclass <|-- SubclassY
+    ```
+
+    Many of the attributes and methods associated with the **Weapon** class would also be present in the **Sword** and **Club** (sub)classes. \
+    Any given sword or club would require the methods and attributes present in the **Weapon** class in order to function. \
+    In most cases the **class hierarchy** you create will have many more layers with many more (sub)classes in each layer. \
+    For example the **Weapon** class may even be a subclass of a broader **Items** class, which would have many more subclasses of its own etc.
+
+    - Inheritance - access modifiers \
+      Inheritance also allows you to **control access** to other classes or attributes and methods of a class. \
+      You can **restrict access** to certain attributes and methods to only the **subclass** or **superclass**. \
+      This is done through **access modifiers**: \
+      - **Public** attributes and methods can be accessed by any class.
+        - This is very useful when we want to have access from a wide range of places in our program.
+      - **Private** attributes and methods can only be accessed by the class they are defined in.
+        - This is best to us if we don't need this information accessed from else in the program. Additionally this allows us to create other private members of the same name in separate classes, which would not conflict with one another due to their private access modifier.
+      - **Protected** attributes and methods can be accessed by the class they are defined in and any subclasses of that class.
+        - Essentially protected variables are private to the class hierarchy that they are defined in.
 
 - [ ] [freeCodeCamp Talks - Object Oriented Programming is not what I thought - Talk by Anjana Vakil](https://www.youtube.com/watch?v=TbP2B1ijWr8)
 - [ ] [(text) People Don't Understand OOP](https://blog.sigma-star.io/2024/01/people-dont-understand-oop/)
