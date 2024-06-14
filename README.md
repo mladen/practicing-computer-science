@@ -422,6 +422,74 @@
       - **Protected** attributes and methods can be accessed by the class they are defined in and any subclasses of that class.
         - Essentially protected variables are private to the class hierarchy that they are defined in.
 
+  - Polymorphism - describes **methods that are able to take on many forms**
+    There are two types of polymorphism:
+
+    - **Dynamic polymorphism**
+
+      - occurs **during the runtime** of the program, when the programs is being executed.
+      - this type of polymorphism describes when a **method signature is in both a subclass and a superclass**. \
+        The methods share the same **name and parameters**, but the **implementations are different** in each class. \
+        The implementation in the subclass **overrides** the implementation in the superclass.
+      - in other words, polymorphism allows a method to do different things based on the object that it is called on (because different objects will have different implementations of the method).
+        > TODO: Check the "car" example from the video. Here is an overview of the example: \
+
+      ```mermaid
+      ---
+      title: Polymorphism example; different types of cars in class hierarchy
+      ---
+      classDiagram
+        class Car {
+          + drive(miles: number): void
+        }
+
+        class SportsCar {
+          + drive(miles: number): void
+        }
+
+        Car <|-- SportsCar
+
+      ```
+
+      In the **Car** class, we might have an attribute **gas** where {Car.gas -= 0.04 \* miles} because the **.drive()** method may cause the car's gas to decrease by 0.04 gallons per mile. \
+      On the other side in the **SportsCar** class, we might have an attribute **gas** where {SportsCar.gas -= 0.02 \* miles} because the **.drive()** method may cause the car's gas to decrease by 0.02 gallons per mile. \
+      So, if we create an instance of a sports car named **mySportsCar**, and call the **.drive()** method on it, the **SportsCar** class's implementation of the **.drive()** method will override the generic **Car** version of the **.drive()**. That will cause the gas to decrease by 0.02 gallons per mile.
+
+      This works because the **form of the method** is decided **based on where in the class hierarchy it is called**.
+
+      The implementation of a method signature that will be used is **determined dynamically as the program is run**.
+
+    - **Static polymorphism**
+
+      - occurs **during the compile time** of the program, when the program is being compiled rather than during runtime.
+      - refers to when multiple **methods with the same name but different arguments(!)** are defined in the same(!) class.
+      - in this case, the methods are differentiated by
+        - the **number of arguments** that they take
+        - the **type of arguments** that they take
+        - the order of the arguments
+      - This is known as **method overloading**.
+
+      > TODO: Check the "car" example from the video. Here is an overview of the example: \
+
+      ```mermaid
+      ---
+      title: Static polymorphism example; different types of cars in class hierarchy
+      ---
+      classDiagram
+        class Car {
+          + drive(speed: number, destination: string): void
+          + drive(speed: number, distance: number): void
+          + drive(destination: string, speed: number): void
+        }
+
+      ```
+
+      Method signatures in the previous example are different because they have different **number of arguments**, **types of arguments** and **order of arguments** therefore the computer is being able to differentiate between them when the program is being compiled.
+
+      The implementation of a method signature that will be used is **determined statically as the program is compiled**.
+
+      For example, if we do the `myCar.drive(100, "New York")` the first method will be called. If we do `myCar.drive("New York", 100)` the third method will be called.
+
 - [ ] [freeCodeCamp Talks - Object Oriented Programming is not what I thought - Talk by Anjana Vakil](https://www.youtube.com/watch?v=TbP2B1ijWr8)
 - [ ] [(text) People Don't Understand OOP](https://blog.sigma-star.io/2024/01/people-dont-understand-oop/)
   - [ ] [ThePrimeTime - You dont know OOP](https://www.youtube.com/watch?v=VRlIGV4gl5Q)
