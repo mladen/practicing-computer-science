@@ -318,8 +318,11 @@
   >
   > - describes methods that are able to take on many forms
   > - types of polymorphism:
-  >   - **Dynamic** or **Run-time polymorphism** - achieved by function overriding
-  >   - **Static** or **Compile-time polymorphism** - achieved by function and operator overloading
+  >   - **Dynamic** or **Run-time polymorphism** - achieved by **method overriding**
+  >     - This is when you have a method in a subclass that has the same name and parameters as a method in the superclass.
+  >   - **Static** or **Compile-time polymorphism** - achieved by **method (and operator) overloading**
+  >     - This is when you have multiple methods with the same name but different parameters.
+  >     - (In other words: allows a method to do different things based on the parameters that are passed to it.)
 
   - Encapsulation - refers to **bundling data with methods** that can operate on that data within a class. \
 
