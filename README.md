@@ -40,6 +40,7 @@
 - [ ] [How to Learn Computer Science? (my answer on Quora)](https://www.quora.com/How-do-I-learn-computer-science-1/answer/Abhishek-Kumar-191)
 - [ ] [Tech With Tim - What Self-Taught Developers NEVER Learn](https://www.youtube.com/watch?v=C64HXRU3GuQ)
 - [ ] [CodeAestetic - Naming Things in Code](https://www.youtube.com/watch?v=-J3wNP6u5YU)
+- [ ] [bigboxSWE - How To Become A Coding Machine](https://www.youtube.com/watch?v=AOYUEqlWOGU)
 
 ## Books
 
@@ -112,6 +113,7 @@
 
 ## Design Patterns
 
+- [ ] [Programming with Mosh - Design Patterns in Plain English | Mosh Hamedani](https://www.youtube.com/watch?v=NU_1StN5Tkk)
 - [ ] [NeetCode - 8 Design Patterns EVERY Developer Should Know](https://www.youtube.com/watch?v=tAuRQs_d9F8)
 - [ ] [CodeAestetic - Dependency Injection, The Best Pattern](https://www.youtube.com/watch?v=J1f5b4vcxCQ)
 - [ ] [Fireship - Design Patterns in 100 Seconds](https://www.youtube.com/watch?v=NU_1HjBv7cc)
