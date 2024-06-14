@@ -293,10 +293,33 @@
 - [ ] [freeCodeCamp - Steven from NullPointer Exception - Intro to Object Oriented Programming - Crash Course](https://www.youtube.com/watch?v=SiBw7os-_zI)
 
   > NOTE: (My conclusions from this and other videos) \
-  > **Encapsulation** is the idea of bundling data with methods that can operate on that data within a class. \
-  > Other classes should not directly interact with the data of another class. That's why we should use getters and setters. Basically we a hiding the data (attributes/fields/private variables) of a class from other classes. \
-  > **Abstraction** is the idea of hiding the complex implementation details of a class and only showing the necessary features of an object. We do this by creating an interface through which classes can interact with one another. \
-  > **Inheritance** is the principle that allows classes to derive from other classes. \
+  >
+  > **Encapsulation**
+  >
+  > - the idea of bundling data with methods that can operate on that data within a class.
+  > - other classes should not _directly_ interact with the data/attributes of another class. \
+  >   To access that data **getters** and **setters** should be used. Basically we a hiding the data (attributes/fields/private variables) of a class from other classes.
+  >
+  > ***
+  >
+  > **Abstraction**
+  >
+  > - the idea of hiding the complex implementation details of a class and only showing the necessary features of an object. We do this by creating an interface through which classes can interact with one another.
+  >
+  > ***
+  >
+  > **Inheritance**
+  >
+  > - the principle that allows classes to derive from other classes.
+  >
+  > ***
+  >
+  > **Polymorphism**
+  >
+  > - describes methods that are able to take on many forms
+  > - types of polymorphism:
+  >   - **Dynamic** or **Run-time polymorphism** - achieved by function overriding
+  >   - **Static** or **Compile-time polymorphism** - achieved by function and operator overloading
 
   - Encapsulation - refers to **bundling data with methods** that can operate on that data within a class. \
 
