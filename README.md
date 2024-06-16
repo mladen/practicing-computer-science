@@ -538,6 +538,24 @@
     **Procedural programming** is good for **simplicity** and **performance**.
 - [ ] [Jonathan Blow on the Problem with Object Oriented](https://www.youtube.com/watch?v=04ksL1hf_p8)
 - [ ] [Jonathan Blow Clips - Jonathan Blow on Simplicity](https://www.youtube.com/watch?v=4oky64qN5WI)
+- [x] [Kantan Coding - The 3 Laws of Writing Readable Code](https://www.youtube.com/watch?v=-AzSRHiV9Cc)
+- [ ] [Kantan Coding (playlist) -](https://www.youtube.com/playlist?list=PL7g1jYj15RUPVZDU9C276SZvlJjf4hzqV)
+  > 13 videos 58,476 views Last updated on 14 Mar 2021
+  >
+  > Big O For Software Engineering is a tutorial series that will teach you how to understand and apply the concepts of Big O Notation to Software Engineering.
+  - [ ] 1. Big O Notation Series #1: Big O For Software Engineering (21K views, 3 years ago, 8:20)
+  - [ ] 2. Big O Notation Series #2: Visualizing Big O of N Squared (13K views, 3 years ago, 6:50)
+  - [ ] 3. Big O Notation Series #3: Visualizing O of N Cubed (7.9K views, 3 years ago, 14:35)
+  - [ ] 4. Big O Notation Series #4: The Secret to Understanding O (log n)! (115K views, 3 years ago, 5:14)
+  - [ ] 5. Big O Notation Series #5: O (n log n) explained for beginners (93K views, 3 years ago, 5:20)
+  - [ ] 6. Big O Notation Series #6: Big O of N Factorial (20K views, 3 years ago, 11:29)
+  - [ ] 7. Big O Notation Series #7: Time Complexity Visualization of Recursive Fibonacci (29K views, 3 years ago, 8:10)
+  - [ ] 8. Big O Notation Series #8: Space Complexity and Big O Gotchas (19K views, 3 years ago, 8:51)
+  - [ ] 9. Big O Notation Series #9: Understanding Merge Sort (12K views, 3 years ago, 15:12)
+  - [ ] 10. Big O Notation Series #10: Log n Complexity Explained With An Iterative Function [Logarithmic time] (11K views, 3 years ago, 5:13)
+  - [ ] 11. Big O Notation Series (Coding): Merge Sort Made Easy (3.1K views, 3 years ago, 15:20)
+  - [ ] 12. Big O Notation Series (Coding): Hands On With O(n) and O(1) Time Complexity Analysis (2.2K views, 3 years ago, 14:34)
+  - [ ] 13. Big O Notation Series (Coding): O(log n) Time Complexity Analysis (Recursive Binary Search) (2.3K views, 3 years ago, 18:28)
 
 ## Databases
 
