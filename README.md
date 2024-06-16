@@ -24,6 +24,7 @@
     - [Software development basics](#software-development-basics)
     - [Software development tools (Git, Docker, etc.)](#software-development-tools-git-docker-etc)
     - [Object Oriented Programming](#object-oriented-programming)
+  - [Code quality](#code-quality)
   - [Databases](#databases)
   - [Compilers](#compilers)
   - [PROGRAMMING PROBLEMS AND SOLUTIONS](#programming-problems-and-solutions)
@@ -207,8 +208,6 @@
 
 - [ ] [ColorCode - 10 Coding Tips for beginner Developers](https://www.youtube.com/watch?v=-fhLersdU8A)
 - [ ] [Why You Should Learn To Program The Hard Way](https://www.youtube.com/watch?v=Qf56xUKbx24)
-- [ ] [Jonathan Blow on the Problem with Object Oriented](https://www.youtube.com/watch?v=04ksL1hf_p8)
-- [ ] [Jonathan Blow Clips - Jonathan Blow on Simplicity](https://www.youtube.com/watch?v=4oky64qN5WI)
 - [ ] [gamedev cuts - Jonathan Blow Gives Advice To His Younger Self](https://www.youtube.com/watch?v=EC3tRWOifMc)
 
 ### Software development basics
@@ -521,6 +520,24 @@
 - [ ] [freeCodeCamp Talks - Object Oriented Programming is not what I thought - Talk by Anjana Vakil](https://www.youtube.com/watch?v=TbP2B1ijWr8)
 - [ ] [(text) People Don't Understand OOP](https://blog.sigma-star.io/2024/01/people-dont-understand-oop/)
   - [ ] [ThePrimeTime - You dont know OOP](https://www.youtube.com/watch?v=VRlIGV4gl5Q)
+
+## Code quality
+
+- [x] [Code Persist - Ditch your Favorite Programming Paradigm](https://www.youtube.com/watch?v=UOkOA6W-vwc)
+  > Check the whole video, it's very interesting.
+  - Avoid **shared state** \
+    Avoid **mutable data/state** \
+    Avoid **side effects** \
+  - The conclusion of the video is that **no programming paradigm is perfect**. \
+    **Each paradigm has its own strengths and weaknesses**. \
+    **The best way to write code is to use the best parts of each paradigm**. \
+    **Don't be dogmatic** about using only one paradigm.
+  - NOTE: (Added by ChatGPT) \
+    **Functional programming** is good for **predictability** and **testability**. \
+    **Object-oriented programming** is good for **encapsulation** and **modularity**. \
+    **Procedural programming** is good for **simplicity** and **performance**.
+- [ ] [Jonathan Blow on the Problem with Object Oriented](https://www.youtube.com/watch?v=04ksL1hf_p8)
+- [ ] [Jonathan Blow Clips - Jonathan Blow on Simplicity](https://www.youtube.com/watch?v=4oky64qN5WI)
 
 ## Databases
 
