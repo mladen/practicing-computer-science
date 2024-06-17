@@ -14,11 +14,6 @@
   - [Data Structures and Algorithms](#data-structures-and-algorithms)
     - [General advices about learning Data structures and Algorithms for coding interviews](#general-advices-about-learning-data-structures-and-algorithms-for-coding-interviews)
     - [Fun algorithms](#fun-algorithms)
-  - [Assembly](#assembly)
-    - [General](#general)
-    - [Tutorials](#tutorials)
-    - [Projects](#projects)
-    - [Reverse engineering](#reverse-engineering)
   - [Software basics](#software-basics)
     - [Software development general advice](#software-development-general-advice)
     - [Software development basics](#software-development-basics)
@@ -27,6 +22,11 @@
   - [Code quality](#code-quality)
   - [Databases](#databases)
   - [Compilers](#compilers)
+  - [Assembly](#assembly)
+    - [General](#general)
+    - [Tutorials](#tutorials)
+    - [Projects](#projects)
+    - [Reverse engineering](#reverse-engineering)
   - [PROGRAMMING PROBLEMS AND SOLUTIONS](#programming-problems-and-solutions)
   - [PROJECT IDEAS](#project-ideas)
   - [Mathematics for programmers](#mathematics-for-programmers)
@@ -181,28 +181,6 @@
   - [ ] 5. The Simplest Sorting Algorithm (You’ve Never Heard Of) (125K views, 1 year ago, 4:18)
   - [ ] 6. The trick that solves Rubik’s Cubes and breaks ciphers (2.5M views, 1 year ago, 14:17)
   - [ ] 7. How to Use Beads and Strings to Find the Diameter of a Tree (29K views, 2 years ago, 14:42)
-
-## Assembly
-
-### General
-
-- [Fireship - Assembly Language in 100 Seconds](https://www.youtube.com/watch?v=4gwYkEK0gOk)
-- [Low Level Learning - you can learn assembly FAST with this technique (arm64 breakdown)](https://www.youtube.com/watch?v=vhyettT7sdA)
-
-### Tutorials
-
-- [root42 - Let's Code - x86 Assembly (playlist)](https://www.youtube.com/playlist?list=PLGJnX2KGgaw1Vbtm7fEZT5XslBH302SWs)
-- [Davy Wybiral - Assembly Programming Tutorial (playlist)](https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe)
-- [HackUCF - x86 Assembly Crash Course](https://www.youtube.com/watch?v=75gBFiFtAb8)
-
-### Projects
-
-- [Nathan Baggs - I made the same game in Assembly, C and C++](https://www.youtube.com/watch?v=2eeXj-ck9VA)
-
-### Reverse engineering
-
-- [Low Level Learning - everything is open source if you can reverse engineer (try it RIGHT NOW!)](https://www.youtube.com/watch?v=gh2RXE9BIN8)
-- [Low Level Learning - unlock the lowest levels of coding](https://www.youtube.com/watch?v=97i2BAUw5Xc)
 
 ## Software basics
 
@@ -587,6 +565,28 @@
   - [ ] 5. Multiplication Superiority (Compiler Pt.5) 11K views, 3 months ago, 1:12:28)
   - [ ] 6. If and Scopes! (Compiler Pt.6) 12K views, 3 months ago, 1:09:45)
   - [ ] 7. Comments and Else! (Compiler Pt.7) 1.9K views, 2 days ago, 1:25:47)
+
+## Assembly
+
+### General
+
+- [Fireship - Assembly Language in 100 Seconds](https://www.youtube.com/watch?v=4gwYkEK0gOk)
+- [Low Level Learning - you can learn assembly FAST with this technique (arm64 breakdown)](https://www.youtube.com/watch?v=vhyettT7sdA)
+
+### Tutorials
+
+- [root42 - Let's Code - x86 Assembly (playlist)](https://www.youtube.com/playlist?list=PLGJnX2KGgaw1Vbtm7fEZT5XslBH302SWs)
+- [Davy Wybiral - Assembly Programming Tutorial (playlist)](https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe)
+- [HackUCF - x86 Assembly Crash Course](https://www.youtube.com/watch?v=75gBFiFtAb8)
+
+### Projects
+
+- [Nathan Baggs - I made the same game in Assembly, C and C++](https://www.youtube.com/watch?v=2eeXj-ck9VA)
+
+### Reverse engineering
+
+- [Low Level Learning - everything is open source if you can reverse engineer (try it RIGHT NOW!)](https://www.youtube.com/watch?v=gh2RXE9BIN8)
+- [Low Level Learning - unlock the lowest levels of coding](https://www.youtube.com/watch?v=97i2BAUw5Xc)
 
 ## PROGRAMMING PROBLEMS AND SOLUTIONS
 
