@@ -123,6 +123,10 @@
 ## Data Structures and Algorithms
 
 - [ForrestKnight - How Data Structures & Algorithms are Actually Used](https://www.youtube.com/watch?v=ALPWOiUKIjY)
+- [ForrestKnight - 4 Data Structures You Need to Know](https://www.youtube.com/watch?v=y7ksXLhuy-w)
+- [ForrestKnight - 3 More Data Structures You Need to Know](https://www.youtube.com/watch?v=2EQ9WswHJ6A)
+- [ForrestKnight - The Data Structure You Use Matters a Lot](https://www.youtube.com/watch?v=VpnZnFUHhIU)
+- [ForrestKnight - 3 Types of Algorithms Every Programmer Needs to Know](https://www.youtube.com/watch?v=Uym4-KhP3Lc)
 - [NeetCode - Top 6 Coding Interview Concepts (Data Structures & Algorithms)](https://www.youtube.com/watch?v=ft0owvS5tQA)
 - [NeetCode - Top 8 Data Structures for Coding Interviews](https://www.youtube.com/watch?v=uhYq27iSk9s)
 - [Power Couple - Top 5 Data Structures they asked me in 127 interviews](https://www.youtube.com/watch?v=DDRo29ptFwE)
@@ -132,8 +136,6 @@
 - [Junmin Jee - 6 basics data structures explained in one video](https://www.youtube.com/watch?v=_9swtAph9jM)
 - [Alex Hyett - 8 DATA STRUCTURES You NEED to Know](https://www.youtube.com/watch?v=SCkbQSPH--A) (duplicate from Alex Hyett's list below, but I'll leave it here)
 - [Alex Hyett - Domain Driven Design: What You Need To Know](https://www.youtube.com/watch?v=4rhzdZIDX_k)
-- [ForrestKnight - 4 Data Structures You Need to Know](https://www.youtube.com/watch?v=y7ksXLhuy-w)
-- [ForrestKnight - 3 More Data Structures You Need to Know](https://www.youtube.com/watch?v=2EQ9WswHJ6A)
 - [Pooja Dutt - How to ACTUALLY Master Data Structures FAST (with real coding examples)](https://www.youtube.com/watch?v=r51TRDECIw4)
 - [Pooja Dutt - How I mastered data structures and algorithms (for beginners)](https://www.youtube.com/watch?v=F7sPauKsZXw)
 - [Data Structures And Algorithms in Python - Python Data Structures Full Tutorial (2020)](https://www.youtube.com/watch?v=kQDxmjfkIKY)
