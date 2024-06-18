@@ -189,6 +189,11 @@
 - [ ] [ColorCode - 10 Coding Tips for beginner Developers](https://www.youtube.com/watch?v=-fhLersdU8A)
 - [ ] [Why You Should Learn To Program The Hard Way](https://www.youtube.com/watch?v=Qf56xUKbx24)
 - [ ] [gamedev cuts - Jonathan Blow Gives Advice To His Younger Self](https://www.youtube.com/watch?v=EC3tRWOifMc)
+- [ ] [Thriving Technologist - How Senior Programmers ACTUALLY Write Code](https://www.youtube.com/watch?v=oJbfMBROEO0)
+- [ ] [Thriving Technologist - Why Most Programmers DON'T Last](https://www.youtube.com/watch?v=Ht0anZiDrBs)
+- [ ] [Thriving Technologist - The Art of Tech Persuasion: A Programmer's Guide](https://www.youtube.com/watch?v=fKWAseIH3hg)
+- [ ] [Theveloper - What little habits can make you a BETTER software engineer ?](https://www.youtube.com/watch?v=jSLdOdd9E08)
+- [ ] [Coderized - How principled coders outperform the competition](https://www.youtube.com/watch?v=q1qKv5TBaOA)
 
 ### Software development basics
 
