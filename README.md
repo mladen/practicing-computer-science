@@ -521,6 +521,13 @@
     **Functional programming** is good for **predictability** and **testability**. \
     **Object-oriented programming** is good for **encapsulation** and **modularity**. \
     **Procedural programming** is good for **simplicity** and **performance**.
+- [ ] [CodeAestetic - Naming Things in Code](https://www.youtube.com/watch?v=-J3wNP6u5YU)
+- [ ] [CodeAestetic - Why You Shouldn't Nest Your Code](https://www.youtube.com/watch?v=CFRhGnuXG-4)
+- [ ] [Coderized - The purest coding style, where bugs are near impossible](https://www.youtube.com/watch?v=HlgG395PQWw)
+- [ ] [Low Level Learning - how NASA writes space-proof code](https://www.youtube.com/watch?v=GWYhtksrmhE)
+- [ ] [Low Level Learning - how Google writes gorgeous C++](https://www.youtube.com/watch?v=6lU11IHfJgo)
+- [ ] [ForrestKnight - How Software Engineers Can Write Better Code](https://www.youtube.com/watch?v=S1nJPemTgzk)
+- [ ] [Conner Ardman - My 10 “Clean” Code Principles (Start These Now)](https://www.youtube.com/watch?v=wSDyiEjhp8k)
 - [ ] [Jonathan Blow on the Problem with Object Oriented](https://www.youtube.com/watch?v=04ksL1hf_p8)
 - [ ] [Jonathan Blow Clips - Jonathan Blow on Simplicity](https://www.youtube.com/watch?v=4oky64qN5WI)
 - [x] [Kantan Coding - The 3 Laws of Writing Readable Code](https://www.youtube.com/watch?v=-AzSRHiV9Cc)
