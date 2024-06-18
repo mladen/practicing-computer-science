@@ -30,7 +30,9 @@
   - [PROGRAMMING PROBLEMS AND SOLUTIONS](#programming-problems-and-solutions)
   - [PROJECT IDEAS](#project-ideas)
   - [Mathematics for programmers](#mathematics-for-programmers)
-  - [Learning platforms](#learning-platforms)
+  - [Coding interviews](#coding-interviews)
+  - [Sites for learning programming](#sites-for-learning-programming)
+  - [Sites for practicing coding (DA, DS, coding interviews)](#sites-for-practicing-coding-da-ds-coding-interviews)
   - [YouTube channels](#youtube-channels)
   - [Curriculums](#curriculums)
   - [Other people's curriculums](#other-peoples-curriculums)
@@ -699,18 +701,20 @@
 - [ ] [PenguinMaths - How quaternions produce 3D rotation](https://www.youtube.com/watch?v=jTgdKoQv738)
 - [ ] [3Blue1Brown - Quaternions and 3d rotation, explained interactively](https://www.youtube.com/watch?v=zjMuIxRvygQ)
 
-## Learning platforms
+## Coding interviews
 
+- [ ] [NeedCode - Most Common Concepts for Coding Interviews](https://www.youtube.com/watch?v=UrcwDOEBzZE)
+
+## Sites for learning programming
+
+- [ CS50 - Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 - [CodeCrafters - Practice Writing Complex Software.](https://codecrafters.io/) - paid, but [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) is free
 - [NeetCodeIO](https://neetcode.io/) - Data Structures and Algorithms for coding interviews; paid
-- [LeetCode](https://leetcode.com/) - most popular platform for practicing DA, DS, coding interviews
 - [Codecademy](https://www.codecademy.com/) - often have 50% discount (less then $90 USD)
 - [FreeCodeCamp](https://www.freecodecamp.org/) - free
 - [Exercism](https://exercism.io/) - free
 - [Educative.io](https://www.educative.io/) - paid
-- [Codewars](https://www.codewars.com/)
 - [CodeinGame](https://www.codingame.com/start)
-- [HackerRank](https://www.hackerrank.com/)
 - [Udemy](https://www.udemy.com/) - often have discounts (then, the price per course is ~$10-15 USD)
 - [Udacity](https://www.udacity.com/)
 - [Coursera](https://www.coursera.org/)
@@ -723,6 +727,12 @@
 - [Open Culture](https://www.openculture.com/freeonlinecourses)
 - [The Odin Project](https://www.theodinproject.com/)
 - [Code.org](https://code.org/)
+
+## Sites for practicing coding (DA, DS, coding interviews)
+
+- [HackerRank](https://www.hackerrank.com/)
+- [Codewars](https://www.codewars.com/)
+- [LeetCode](https://leetcode.com/) - most popular platform for practicing DA, DS, coding interviews
 - [CodeCombat](https://codecombat.com/)
 - [CodeSignal](https://codesignal.com/)
 - [CodeChef](https://www.codechef.com/)
@@ -741,6 +751,10 @@
 - [NeetCodeIO - Coding Interviews made Simple](https://www.youtube.com/@NeetCodeIO/playlists)
 - [ComputerScienceLessons](https://www.youtube.com/@ComputerScienceLessons)
 - [CodeAestetic](https://www.youtube.com/@CodeAestetic)
+- [Coderized](https://www.youtube.com/@Coderized)
+- [NoBoilerplate](https://www.youtube.com/@NoBoilerplate)
+- [Low Level Learning](https://www.youtube.com/@LowLevelLearning)
+- [ForrestKnight](https://www.youtube.com/@ForrestKnight)
 
 ## Curriculums
 
