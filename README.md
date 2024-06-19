@@ -37,6 +37,7 @@
   - [Curriculums](#curriculums)
   - [Other people's curriculums](#other-peoples-curriculums)
   - [Other](#other)
+    - [Haskell](#haskell)
 
 ## General advices about learning CS
 
@@ -777,3 +778,17 @@
 
 - [Some good links](https://medium.com/@Satishes/i-want-to-learn-computer-engineering-b01837971f50)
 - [Low Level Learning - zig is the future of programming. here's why.](https://www.youtube.com/watch?v=pnnx1bkFXng)
+
+### Haskell
+
+- [bunidanoable - Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ)
+- [Tsoding daily - Why I Don't Code in Haskell Anymore?](https://www.youtube.com/watch?v=SPwnfSmyAGI)
+- [DistroTube - Have You Tried These Popular Haskell Programs? (You Should!)](https://www.youtube.com/watch?v=VJyedDQJUHE)
+- [Low Level Learning - C Programmer Learns Haskell and DOESN'T Cry? (Coding in a Random Language Every Day)](https://www.youtube.com/watch?v=G8S5u9ux_dY)
+- [Philipp Hagenlocher (playlist) - Haskell for Imperative Programmers](https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
+- [peppidesu - You want to learn Haskell. This is why.](https://www.youtube.com/watch?v=va3kJ1YBBXo)
+- [Tony Zhang - I tried learning a programming language, but it turns out it's just math.](https://www.youtube.com/watch?v=UhM_H3lFk_Q)
+- [Computerphille - Functional Programming & Haskell - Computerphile](https://www.youtube.com/watch?v=LnX3B9oaKzw)
+- [Fireship - Haskell in 100 Seconds](https://www.youtube.com/watch?v=Qa8IfEeBJqk)
+- [Stephen Edwards - Haskell: Monads. A 5-minute introduction](https://www.youtube.com/watch?v=_Gk_lwhJMzk)
+- [Impure Pics - The Death of Monads? Direct Style Algebraic Effects](https://www.youtube.com/watch?v=GaAe7zGq1zM)
