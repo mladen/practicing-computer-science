@@ -27,6 +27,7 @@
     - [Tutorials](#tutorials)
     - [Projects](#projects)
     - [Reverse engineering](#reverse-engineering)
+  - [How the Internet Works](#how-the-internet-works)
   - [PROGRAMMING PROBLEMS AND SOLUTIONS](#programming-problems-and-solutions)
   - [PROJECT IDEAS](#project-ideas)
   - [Mathematics for programmers](#mathematics-for-programmers)
@@ -602,6 +603,11 @@
 
 - [Low Level Learning - everything is open source if you can reverse engineer (try it RIGHT NOW!)](https://www.youtube.com/watch?v=gh2RXE9BIN8)
 - [Low Level Learning - unlock the lowest levels of coding](https://www.youtube.com/watch?v=97i2BAUw5Xc)
+
+## How the Internet Works
+
+- [ ] [NeetCodeIO (short) - TCP / IP in 50 seconds](https://www.youtube.com/shorts/zDmIuTl6Wmg)
+- [ ] [fasterthanlime - POV: I'm on my third coffee and you just asked me how the internet works](https://www.youtube.com/watch?v=jjKFXlFNR4E)
 
 ## PROGRAMMING PROBLEMS AND SOLUTIONS
 
