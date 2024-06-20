@@ -524,7 +524,6 @@
 
       For example, if we do the `myCar.drive(100, "New York")` the first method will be called. If we do `myCar.drive("New York", 100)` the third method will be called.
 
-- [ ] [freeCodeCamp Talks - Object Oriented Programming is not what I thought - Talk by Anjana Vakil](https://www.youtube.com/watch?v=TbP2B1ijWr8)
 - [ ] [(text) People Don't Understand OOP](https://blog.sigma-star.io/2024/01/people-dont-understand-oop/)
   - [ ] [ThePrimeTime - You dont know OOP](https://www.youtube.com/watch?v=VRlIGV4gl5Q)
 
@@ -544,7 +543,8 @@
     **Object-oriented programming** is good for **encapsulation** and **modularity**. \
     **Procedural programming** is good for **simplicity** and **performance**.
 - [ ] [CodeAestetic - Naming Things in Code](https://www.youtube.com/watch?v=-J3wNP6u5YU)
-- [ ] [CodeAestetic - Why You Shouldn't Nest Your Code](https://www.youtube.com/watch?v=CFRhGnuXG-4)
+- [x] [CodeAestetic - Why You Shouldn't Nest Your Code](https://www.youtube.com/watch?v=CFRhGnuXG-4)
+- [x] [CodeAestetic - Abstraction Can Make Your Code Worse](https://www.youtube.com/watch?v=rQlMtztiAoA)
 - [ ] [Coderized - The purest coding style, where bugs are near impossible](https://www.youtube.com/watch?v=HlgG395PQWw)
 - [ ] [Low Level Learning - how NASA writes space-proof code](https://www.youtube.com/watch?v=GWYhtksrmhE)
 - [ ] [Low Level Learning - how Google writes gorgeous C++](https://www.youtube.com/watch?v=6lU11IHfJgo)
@@ -552,6 +552,7 @@
 - [ ] [Conner Ardman - My 10 “Clean” Code Principles (Start These Now)](https://www.youtube.com/watch?v=wSDyiEjhp8k)
 - [ ] [Jonathan Blow on the Problem with Object Oriented](https://www.youtube.com/watch?v=04ksL1hf_p8)
 - [ ] [Jonathan Blow Clips - Jonathan Blow on Simplicity](https://www.youtube.com/watch?v=4oky64qN5WI)
+- [ ] [Awesome - The Harsh Reality of Good Software](https://www.youtube.com/watch?v=1UEMXDSh8Og)
 - [x] [Kantan Coding - The 3 Laws of Writing Readable Code](https://www.youtube.com/watch?v=-AzSRHiV9Cc)
 - [ ] [Kantan Coding (playlist) -](https://www.youtube.com/playlist?list=PL7g1jYj15RUPVZDU9C276SZvlJjf4hzqV)
   > 13 videos 58,476 views Last updated on 14 Mar 2021
