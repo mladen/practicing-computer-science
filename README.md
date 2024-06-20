@@ -277,6 +277,24 @@
 
 > NOTE: Check out other sections of this README for more resources about OOP.
 
+- [x] [freeCodeCamp - Object Oriented Programming is not what I thought - Talk by Anjana Vakil](https://www.youtube.com/watch?v=TbP2B1ijWr8&t=407s)
+  - It's not about objects, it's about messages? NOTE: What???
+- [ ] [Code With Hew - Object Oriented Programming](https://www.youtube.com/playlist?list=PLZHx5heVfgEvuveKG1T7BBSuDOTHl1eLl)
+
+  - [x] 1. Object Oriented Programming is not what you think it is. This is why. (62K views, 1 year ago, 13:36)
+    - Alan Key (the guy who coined the term "Object-oriented programming") said that OOP is about **messaging**: "I thought of objects being like biological cells and/or individual computers on a network, only able to communicate with messages... OOP (Object-oriented programming) to me means only messaging, local retention and protection and hiding of state-process, and extreme late-binding of all things".
+    - TODO: See about "extreme late-binding"!
+      - NOTE: Answer by Copilot: Extreme late-binding is a term that refers to the idea that the method to be executed is determined at runtime, not at compile time.
+    - NOTE: In the following lectures we'll see how this idea of messaging is implemented in Smalltalk.
+  - [ ] 2. Learn Object Oriented Programming - Your First Half Hour! (12K views, 1 year ago, 29:20)
+  - [ ] 3. Object Orientation is NOT about Objects. The Secret Most Programmers Don't Know! (10K views, 1 year ago, 10:33)
+  - [ ] 4. Modular Programming - Most Programmers Think They do it. But Hardly Anyone Does! (7.8K views, 1 year ago, 13:50)
+  - [ ] 5. The Four Principles of Object Oriented Programming (What They Are and Why They Are Wrong!) (4.9K views, 1 year ago, 11:50)
+  - [ ] 6. Object Oriented Programming With Smalltalk - Objects and Messages (7.2K views, 1 year ago, 14:54)
+  - [ ] 7. Master Object Oriented Programming. Smalltalk’s Big Secret: Turtles! (2.8K views, 1 year ago, 16:01)
+  - [ ] 8. Object Oriented Programming With Smalltalk - blocks, tests, loops and files (2.6K views, 1 year ago, 18:17)
+  - [ ] 9. Is Message-Passing The Same As Function-Calling (in Object Oriented Programming)? (3.6K views, 9 months ago, 8:15)
+
 - [ ] [Programming with Mosh - Object Oriented Programming in 7 minutes](https://www.youtube.com/watch?v=pTB0EiLXUC8)
 - [ ] [Keep on Coding - Object Oriented Programming - The Four Pillars of OOP](https://www.youtube.com/watch?v=1ONhXmQuWP8)
 - [ ] [Computer Science - Fundamental Concepts of Object Oriented Programming](https://www.youtube.com/watch?v=m_MQYyJpIjg)
