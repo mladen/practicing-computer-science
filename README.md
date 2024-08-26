@@ -713,6 +713,8 @@
   - Piece table
   - Splay tree
 - [ ] [The Coding Sloth - 20 Programming Projects That Will Make You A God At Coding](https://www.youtube.com/watch?v=jTJvyKZDFsY)
+- [ ] [Mults - A Company Forced Me to Code my Own HTTP Server in C](https://www.youtube.com/watch?v=jLplqoB04hE)
+- [ ] [FaceDev - I made my own Web](https://www.youtube.com/watch?v=qiOtinFFfk8)
 - [ ] [Nand2Tetris](https://www.nand2tetris.org/) [HARD but VERY INTERESTING]
 
 ## Mathematics for programmers
