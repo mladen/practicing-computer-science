@@ -636,6 +636,7 @@
 
 - [x] [Fireship - Learn Docker in 7 Easy Steps - Full Beginner's Tutorial](https://www.youtube.com/watch?v=gAkwW2tuIqE)
 - [x] [Fireship - GitHub Pull Request in 100 Seconds - Git a FREE sticker](https://www.youtube.com/watch?v=8lGpZkjnkt4)
+- [x] [Fireship - DevOps CI/CD Explained in 100 Seconds](https://www.youtube.com/watch?v=scEDHsr3APg)
 - [x] [Fireship - 5 Ways to DevOps-ify your App - Github Actions Tutorial](https://www.youtube.com/watch?v=eB0nUzAI7M8)
 
 ## PROGRAMMING PROBLEMS AND SOLUTIONS
