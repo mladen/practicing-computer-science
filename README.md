@@ -33,6 +33,9 @@
   - [PROJECT IDEAS](#project-ideas)
   - [Mathematics for programmers](#mathematics-for-programmers)
   - [Coding interviews](#coding-interviews)
+    - [Technical part](#technical-part)
+    - [Interview process](#interview-process)
+    - [Interview examples](#interview-examples)
   - [Sites for learning programming](#sites-for-learning-programming)
   - [Sites for practicing coding (DA, DS, coding interviews)](#sites-for-practicing-coding-da-ds-coding-interviews)
   - [YouTube channels](#youtube-channels)
@@ -738,7 +741,23 @@
 
 ## Coding interviews
 
+### Technical part
+
 - [ ] [NeedCode - Most Common Concepts for Coding Interviews](https://www.youtube.com/watch?v=UrcwDOEBzZE)
+
+### Interview process
+
+- [ ] [A Life Engineered - Most Tech Interview Prep is GARBAGE. (From a Principal Engineer at Amazon)](https://www.youtube.com/watch?v=0Z9RW_hhUT4)
+- [ ] [A Life Engineered - How To Find A Tech Job In An Impossible Market (ex-Amazon Principal Engineer)](https://www.youtube.com/watch?v=557a30Ss_44)
+- [ ] [A Life Engineered - Don't Get Down-Leveled or How to Tell a Good Story (From a Principal at Amazon)](https://www.youtube.com/watch?v=hU6BVxtGd5g)
+- [ ] [Clement Mihailescu - What To Do If You're Stuck In A Coding Interview](https://www.youtube.com/watch?v=WLBcmyNaeKc)
+- [ ] [CS Dojo - 5 Problem Solving Tips for Cracking Coding Interview Questions](https://www.youtube.com/watch?v=GBuHSRDGZBY)
+- [ ] [The Pragmatic Programmer - Confessions from a Big Tech Hiring Manager: Tips for Software Engineering Interviews](https://www.youtube.com/watch?v=vFOw_m5zNCs)
+
+### Interview examples
+
+- [ ] [Clement Mihailescu - Google Coding Interview With A Facebook Software Engineer](https://www.youtube.com/watch?v=PIeiiceWe_w)
+- [ ] [freeCodeCamp.org - Software Engineering Job Interview – Full Mock Interview](https://www.youtube.com/watch?v=1qw5ITr3k9E)
 
 ## Sites for learning programming
 
