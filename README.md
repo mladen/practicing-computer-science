@@ -1,6 +1,6 @@
 # Learning Computer Science
 
-### Table of Contents
+## Table of Contents
 
 - [Learning Computer Science](#learning-computer-science)
   - [Table of Contents](#table-of-contents)
@@ -28,6 +28,7 @@
     - [Projects](#projects)
     - [Reverse engineering](#reverse-engineering)
   - [How the Internet Works](#how-the-internet-works)
+  - [CI/CD, DevOps](#cicd-devops)
   - [PROGRAMMING PROBLEMS AND SOLUTIONS](#programming-problems-and-solutions)
   - [PROJECT IDEAS](#project-ideas)
   - [Mathematics for programmers](#mathematics-for-programmers)
@@ -627,6 +628,12 @@
 
 - [ ] [NeetCodeIO (short) - TCP / IP in 50 seconds](https://www.youtube.com/shorts/zDmIuTl6Wmg)
 - [ ] [fasterthanlime - POV: I'm on my third coffee and you just asked me how the internet works](https://www.youtube.com/watch?v=jjKFXlFNR4E)
+
+## CI/CD, DevOps
+
+- [x] [Fireship - Learn Docker in 7 Easy Steps - Full Beginner's Tutorial](https://www.youtube.com/watch?v=gAkwW2tuIqE)
+- [x] [Fireship - GitHub Pull Request in 100 Seconds - Git a FREE sticker](https://www.youtube.com/watch?v=8lGpZkjnkt4)
+- [x] [Fireship - 5 Ways to DevOps-ify your App - Github Actions Tutorial](https://www.youtube.com/watch?v=eB0nUzAI7M8)
 
 ## PROGRAMMING PROBLEMS AND SOLUTIONS
 
