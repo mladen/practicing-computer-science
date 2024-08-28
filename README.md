@@ -749,7 +749,7 @@
 ### Interview process
 
 - [x] [Fullstack Academy - Whiteboard Coding Interviews: 6 Steps to Solve Any Problem](https://www.youtube.com/watch?v=DIR_rxusO8Q)
-  > NOTE: Do not start coding/writing code immediately. \
+  > NOTE: Do not start coding/writing code immediately.
   >
   > Go through the following steps: \
   > R ⟶ Repeat: repeat the task/problem; make sure you do understand the problem. \
@@ -757,7 +757,7 @@
   > A ⟶ Approach: come up with your approach(es) to the problem (brute force first) \
   > C ⟶ Code: write the code for your chosen approach \
   > T ⟶ Testing: pass the testcases \
-  > O ⟶ Optimize: optimize the complexities (time and space) of your algorithm \
+  > O ⟶ Optimize: optimize the complexities (time and space) of your algorithm
 - [ ] [A Life Engineered - Most Tech Interview Prep is GARBAGE. (From a Principal Engineer at Amazon)](https://www.youtube.com/watch?v=0Z9RW_hhUT4)
 - [ ] [A Life Engineered - How To Find A Tech Job In An Impossible Market (ex-Amazon Principal Engineer)](https://www.youtube.com/watch?v=557a30Ss_44)
 - [ ] [A Life Engineered - Don't Get Down-Leveled or How to Tell a Good Story (From a Principal at Amazon)](https://www.youtube.com/watch?v=hU6BVxtGd5g)
