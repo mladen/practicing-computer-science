@@ -6,7 +6,7 @@
   - [Table of Contents](#table-of-contents)
   - [General advices about learning CS](#general-advices-about-learning-cs)
   - [General Computer Science talks](#general-computer-science-talks)
-  - [General Computer networks talks](#general-computer-networks-talks)
+  - [Computer networks](#computer-networks)
   - [Books](#books)
   - [Computer architecture](#computer-architecture)
   - [Software architecture](#software-architecture)
@@ -91,7 +91,7 @@
 - [ ] [Lex Clips - Richard Feynman: Can Machines Think?](https://www.youtube.com/watch?v=ipRvjS7q1DI)
 - [ ] [Muon Ray - Richard Feynman Computer Science Lecture - Hardware, Software and Heuristics](https://www.youtube.com/watch?v=EKWGGDXe5MA)
 
-## General Computer networks talks
+## Computer networks
 
 - [ ] [NetworkChuck - FREE CCNA 200-301 // Complete Course // NetworkChuck 2023](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
   - [x] 1. FREE CCNA // What is a Network? // Day 0 (1.7M views, 4 years ago, 10:29)
@@ -118,6 +118,8 @@
   - [ ] 22. subnetting my coffee shop (492K views, 1 year ago,  14:31)
   - [ ] 23. Subnetting…..but in reverse (187K views, 1 year ago,  8:26)
   - [ ] 24. Do you STILL suck at subnetting?? (THE FINAL TEST) // EP 9 (194K views, 1 year ago, 7:51)
+- [ ] [NetworkChuck - What is DNS? (and how it makes the Internet work)](https://www.youtube.com/watch?v=NiQTs9DbtW4)
+
 ## Books
 
 - Classic Computer Science Problems in Python - David Kopec (2019, 1st edition, 224 pages, Manning)
