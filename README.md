@@ -87,7 +87,8 @@
   - [ ] 30. Hamming, "How Do We Know What We Know" (June 2, 1995) (9.7K views, 12 years ago, 40:38)
   - [ ] 31. Hamming, "You and Your Research" (June 6, 1995) (243K views, 12 years ago, 44:19)
   - [ ] 32. Dr. Hamming's 1990 NPS SGL Lecture (5K views, 12 years ago, 41:53)
-
+- [ ] [Lex Clips - Richard Feynman: Can Machines Think?](https://www.youtube.com/watch?v=ipRvjS7q1DI)
+- [ ] [Muon Ray - Richard Feynman Computer Science Lecture - Hardware, Software and Heuristics](https://www.youtube.com/watch?v=EKWGGDXe5MA)
 
 ## Books
 
