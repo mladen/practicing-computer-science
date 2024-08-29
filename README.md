@@ -5,7 +5,8 @@
 - [Learning Computer Science](#learning-computer-science)
   - [Table of Contents](#table-of-contents)
   - [General advices about learning CS](#general-advices-about-learning-cs)
-  - [General talks](#general-talks)
+  - [General Computer Science talks](#general-computer-science-talks)
+  - [General Computer networks talks](#general-computer-networks-talks)
   - [Books](#books)
   - [Computer architecture](#computer-architecture)
   - [Software architecture](#software-architecture)
@@ -52,7 +53,7 @@
 - [ ] [CodeAestetic - Naming Things in Code](https://www.youtube.com/watch?v=-J3wNP6u5YU)
 - [ ] [bigboxSWE - How To Become A Coding Machine](https://www.youtube.com/watch?v=AOYUEqlWOGU)
 
-## General talks
+## General Computer Science talks
 
 - [ ] [securitylectures - Richard Hamming: "Learning to Learn"](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)
   - [ ] 1. Hamming, Intro to The Art of Doing Science and Engineering: Learning to Learn (March 28, 1995) (110K views, 12 years ago, 47:02)
@@ -90,6 +91,33 @@
 - [ ] [Lex Clips - Richard Feynman: Can Machines Think?](https://www.youtube.com/watch?v=ipRvjS7q1DI)
 - [ ] [Muon Ray - Richard Feynman Computer Science Lecture - Hardware, Software and Heuristics](https://www.youtube.com/watch?v=EKWGGDXe5MA)
 
+## General Computer networks talks
+
+- [ ] [NetworkChuck - FREE CCNA 200-301 // Complete Course // NetworkChuck 2023](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
+  - [x] 1. FREE CCNA // What is a Network? // Day 0 (1.7M views, 4 years ago, 10:29)
+  - [ ] 2. What is a SWITCH? // FREE CCNA // Day 1 (1.5M views, 4 years ago,  23:22)
+  - [ ] 3. What is a ROUTER? // FREE CCNA // EP 2 (1M views, 4 years ago,  21:51)
+  - [ ] 4. what is TCP/IP and OSI? // FREE CCNA // EP 3 (1M views, 4 years ago,  12:04)
+  - [ ] 5. REAL LIFE example!! (TCP/IP and OSI layers) // FREE CCNA // EP 4 (783K views, 4 years ago,  16:50)
+  - [ ] 6. how the OSI model works on YouTube (Application and Transport Layers) // FREE CCNA // EP 5 (596K views, 4 years ago,  21:56)
+  - [ ] 7. DO NOT design your network like this!! // FREE CCNA // EP 6 (3.2M views, 3 years ago,  19:36)
+  - [ ] 8. Data Center NETWORKS (what do they look like??) // FREE CCNA // EP 7 (789K views, 3 years ago,  20:17)
+  - [ ] 9. WAN....it's not the internet!! (sometimes) // FREE CCNA // EP 8 (513K views, 3 years ago,  26:05)
+  - [ ] 10. let's hack your home network // FREE CCNA // EP 9 (3.9M views, 3 years ago,  30:16)
+  - [ ] 11. you need to learn Hybrid-Cloud RIGHT NOW!! // FREE CCNA // EP 10 (373K views, 3 years ago,  16:19)
+  - [ ] 12. forcing my kids to make Ethernet cables // FREE CCNA // EP 11 (587K views, 3 years ago,  43:37)
+  - [ ] 13. why Power over Ethernet (PoE) is amazing!! // FREE CCNA // EP 12 (452K views, 3 years ago,  19:39)
+  - [ ] 14. fiber optic cables (what you NEED to know) // FREE CCNA // EP 13 (606K views, 3 years ago,  19:08)
+  - [ ] 15. you NEED to learn Port Security…….RIGHT NOW!! // FREE CCNA // EP 14 (618K views, 3 years ago,  23:23)
+  - [ ] 16. what is an IP Address? // You SUCK at Subnetting // EP 1 (1.6M views, 2 years ago,  18:45)
+  - [ ] 17. we ran OUT of IP Addresses!! (2M views, 2 years ago,  16:49)
+  - [ ] 18. we’re out of IP Addresses….but this saved us (Private IP Addresses) (510K views, 2 years ago,  15:02)
+  - [ ] 19. i bet you can't do this (because you still suck at subnetting) (435K views, 2 years ago,  18:46)
+  - [ ] 20. What is a Subnet Mask??? (you NEED to know it!!) (475K views, 2 years ago,  12:59)
+  - [ ] 21. let’s subnet your home network // You SUCK at subnetting // EP 6 (634K views, 1 year ago,  9:40)
+  - [ ] 22. subnetting my coffee shop (492K views, 1 year ago,  14:31)
+  - [ ] 23. Subnetting…..but in reverse (187K views, 1 year ago,  8:26)
+  - [ ] 24. Do you STILL suck at subnetting?? (THE FINAL TEST) // EP 9 (194K views, 1 year ago, 7:51)
 ## Books
 
 - Classic Computer Science Problems in Python - David Kopec (2019, 1st edition, 224 pages, Manning)
