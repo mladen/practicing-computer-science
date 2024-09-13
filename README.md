@@ -839,12 +839,21 @@
 
 ## Coding interviews
 
+- [ ] [ByteByteGo - Our Recommended Materials For Cracking Your Next Tech Interview](https://www.youtube.com/watch?v=wAMc7NyL4tQ)
+- [ ] [IGotAnOffer: Engineering](https://www.youtube.com/watch?v=8dG0qzNAVXI)
+- [ ] [IGotAnOffer: Engineering - Do THIS to improve your RESUME by 20% (ex-Google recruiter can't believe how few people do this)](https://www.youtube.com/watch?v=YCQyIy-1Tn0)
+- [ ] [IGotAnOffer: Engineering - Engineering resume review (with top ex-Google recruiter)](https://www.youtube.com/watch?v=-deIW2au-9Y)
+- [ ] [Elsa Scola - How I Got a Software Engineering Job at Amazon](https://www.youtube.com/watch?v=bSyHeTWaT5c)
+
 ### Technical part
 
 - [ ] [NeedCode - Most Common Concepts for Coding Interviews](https://www.youtube.com/watch?v=UrcwDOEBzZE)
+- [ ] [ByteByteGo - FANG Interview Question | Process vs Thread](https://www.youtube.com/watch?v=4rLW7zg21gI)
+- [ ] [ByteByteGo - SSL, TLS, HTTPS Explained](https://www.youtube.com/watch?v=j9QmMEWmcfo)
 
 ### Interview process
 
+- [ ] [HackerNews - Three questions to turn the table during technical interviews (bellmar.medium.com)](https://news.ycombinator.com/item?id=41404117)
 - [x] [Fullstack Academy - Whiteboard Coding Interviews: 6 Steps to Solve Any Problem](https://www.youtube.com/watch?v=DIR_rxusO8Q)
   > NOTE: Do not start coding/writing code immediately.
   >
