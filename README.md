@@ -39,6 +39,9 @@
     - [Interview process](#interview-process)
     - [Interview examples](#interview-examples)
   - [Sites for learning programming](#sites-for-learning-programming)
+    - [Free](#free)
+    - [Paid](#paid)
+    - [Check these](#check-these)
   - [Sites for practicing coding (DA, DS, coding interviews)](#sites-for-practicing-coding-da-ds-coding-interviews)
   - [YouTube channels](#youtube-channels)
   - [Curriculums](#curriculums)
@@ -878,29 +881,42 @@
 
 ## Sites for learning programming
 
-- [ CS50 - Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
-- [CodeCrafters - Practice Writing Complex Software.](https://codecrafters.io/) - paid, but [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) is free
-- [NeetCodeIO](https://neetcode.io/) - Data Structures and Algorithms for coding interviews; paid
-- [Codecademy](https://www.codecademy.com/) - often have 50% discount (less then $90 USD)
-- [FreeCodeCamp](https://www.freecodecamp.org/) - free
-- [Exercism](https://exercism.io/) - free
-- [Educative.io](https://www.educative.io/) - paid
+### Free
+
+- [CS50 - Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) is free
+- [NeetCodeIO](https://neetcode.io/) - Data Structures and Algorithms for coding interviews
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [Exercism](https://exercism.io/)
 - [CodeinGame](https://www.codingame.com/start)
-- [Udemy](https://www.udemy.com/) - often have discounts (then, the price per course is ~$10-15 USD)
-- [Udacity](https://www.udacity.com/)
-- [Coursera](https://www.coursera.org/)
-- [edX](https://www.edx.org/)
 - [Khan Academy](https://www.khanacademy.org/)
+- [edX](https://www.edx.org/)
 - [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
-- [Stanford Online](https://online.stanford.edu/)
-- [Harvard Online](https://online-learning.harvard.edu/)
 - [Open Yale Courses](https://oyc.yale.edu/)
 - [Open Culture](https://www.openculture.com/freeonlinecourses)
 - [The Odin Project](https://www.theodinproject.com/)
 - [Code.org](https://code.org/)
 
+### Paid
+
+- [Codecademy](https://www.codecademy.com/) - often have 50% discount (less then $90 USD)
+- [CodeCrafters - Practice Writing Complex Software.](https://codecrafters.io/) 
+- [Low Level Learning](https://lowlevel.academy/)
+- [Pluralsight](https://www.pluralsight.com/)
+- [Educative.io](https://www.educative.io/)
+- [Udemy](https://www.udemy.com/) - often have discounts (then, the price per course is ~$10-15 USD)
+- [Udacity](https://www.udacity.com/)
+- [Coursera](https://www.coursera.org/)
+
+### Check these
+
+- [Stanford Online](https://online.stanford.edu/)
+- [Harvard Online](https://online-learning.harvard.edu/)
+
+
 ## Sites for practicing coding (DA, DS, coding interviews)
 
+- [LeetCode](https://leetcode.com/) - most popular platform for practicing DA, DS, coding interviews
 - [HackerRank](https://www.hackerrank.com/)
 - [Codewars](https://www.codewars.com/)
 - [LeetCode](https://leetcode.com/) - most popular platform for practicing DA, DS, coding interviews
@@ -919,7 +935,8 @@
 
 ## YouTube channels
 
-- [NeetCodeIO - Coding Interviews made Simple](https://www.youtube.com/@NeetCodeIO/playlists)
+- [dr Jonas Birch](https://www.youtube.com/@dr-Jonas-Birch)
+- [NeetCodeIO - Coding Interviews made Simple](https://www.youtube.com/@NeetCodeIO)
 - [ComputerScienceLessons](https://www.youtube.com/@ComputerScienceLessons)
 - [CodeAestetic](https://www.youtube.com/@CodeAestetic)
 - [Coderized](https://www.youtube.com/@Coderized)
