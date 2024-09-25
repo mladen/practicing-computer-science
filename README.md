@@ -34,10 +34,6 @@
   - [PROGRAMMING PROBLEMS AND SOLUTIONS](#programming-problems-and-solutions)
   - [PROJECT IDEAS](#project-ideas)
   - [Mathematics for programmers](#mathematics-for-programmers)
-  - [Coding interviews](#coding-interviews)
-    - [Technical part](#technical-part)
-    - [Interview process](#interview-process)
-    - [Interview examples](#interview-examples)
   - [Sites for learning programming](#sites-for-learning-programming)
     - [Free](#free)
     - [Paid](#paid)
@@ -738,6 +734,7 @@
 - [x] [Fireship - GitHub Pull Request in 100 Seconds - Git a FREE sticker](https://www.youtube.com/watch?v=8lGpZkjnkt4)
 - [x] [Fireship - DevOps CI/CD Explained in 100 Seconds](https://www.youtube.com/watch?v=scEDHsr3APg)
 - [x] [Fireship - 5 Ways to DevOps-ify your App - Github Actions Tutorial](https://www.youtube.com/watch?v=eB0nUzAI7M8)
+- [ ] [ByteByteGo - Top 5 Most-Used Deployment Strategies](https://www.youtube.com/watch?v=AWVTKBUnoIg)
 
 ## PROGRAMMING PROBLEMS AND SOLUTIONS
 
@@ -840,45 +837,6 @@
 - [ ] [PenguinMaths - How quaternions produce 3D rotation](https://www.youtube.com/watch?v=jTgdKoQv738)
 - [ ] [3Blue1Brown - Quaternions and 3d rotation, explained interactively](https://www.youtube.com/watch?v=zjMuIxRvygQ)
 
-## Coding interviews
-
-- [ ] [ByteByteGo - Our Recommended Materials For Cracking Your Next Tech Interview](https://www.youtube.com/watch?v=wAMc7NyL4tQ)
-- [ ] [IGotAnOffer: Engineering](https://www.youtube.com/watch?v=8dG0qzNAVXI)
-- [ ] [IGotAnOffer: Engineering - Do THIS to improve your RESUME by 20% (ex-Google recruiter can't believe how few people do this)](https://www.youtube.com/watch?v=YCQyIy-1Tn0)
-- [ ] [IGotAnOffer: Engineering - Engineering resume review (with top ex-Google recruiter)](https://www.youtube.com/watch?v=-deIW2au-9Y)
-- [ ] [Elsa Scola - How I Got a Software Engineering Job at Amazon](https://www.youtube.com/watch?v=bSyHeTWaT5c)
-
-### Technical part
-
-- [ ] [NeedCode - Most Common Concepts for Coding Interviews](https://www.youtube.com/watch?v=UrcwDOEBzZE)
-- [ ] [ByteByteGo - FANG Interview Question | Process vs Thread](https://www.youtube.com/watch?v=4rLW7zg21gI)
-- [ ] [ByteByteGo - SSL, TLS, HTTPS Explained](https://www.youtube.com/watch?v=j9QmMEWmcfo)
-
-### Interview process
-
-- [ ] [HackerNews - Three questions to turn the table during technical interviews (bellmar.medium.com)](https://news.ycombinator.com/item?id=41404117)
-- [x] [Fullstack Academy - Whiteboard Coding Interviews: 6 Steps to Solve Any Problem](https://www.youtube.com/watch?v=DIR_rxusO8Q)
-  > NOTE: Do not start coding/writing code immediately.
-  >
-  > Go through the following steps: \
-  > R ⟶ Repeat: repeat the task/problem; make sure you do understand the problem. \
-  > E ⟶ Example: get insights by doing examples  \
-  > A ⟶ Approach: come up with your approach(es) to the problem (brute force first) \
-  > C ⟶ Code: write the code for your chosen approach \
-  > T ⟶ Testing: pass the testcases \
-  > O ⟶ Optimize: optimize the complexities (time and space) of your algorithm
-- [ ] [A Life Engineered - Most Tech Interview Prep is GARBAGE. (From a Principal Engineer at Amazon)](https://www.youtube.com/watch?v=0Z9RW_hhUT4)
-- [ ] [A Life Engineered - How To Find A Tech Job In An Impossible Market (ex-Amazon Principal Engineer)](https://www.youtube.com/watch?v=557a30Ss_44)
-- [ ] [A Life Engineered - Don't Get Down-Leveled or How to Tell a Good Story (From a Principal at Amazon)](https://www.youtube.com/watch?v=hU6BVxtGd5g)
-- [ ] [Clement Mihailescu - What To Do If You're Stuck In A Coding Interview](https://www.youtube.com/watch?v=WLBcmyNaeKc)
-- [ ] [CS Dojo - 5 Problem Solving Tips for Cracking Coding Interview Questions](https://www.youtube.com/watch?v=GBuHSRDGZBY)
-- [ ] [The Pragmatic Programmer - Confessions from a Big Tech Hiring Manager: Tips for Software Engineering Interviews](https://www.youtube.com/watch?v=vFOw_m5zNCs)
-
-### Interview examples
-
-- [ ] [Clement Mihailescu - Google Coding Interview With A Facebook Software Engineer](https://www.youtube.com/watch?v=PIeiiceWe_w)
-- [ ] [freeCodeCamp.org - Software Engineering Job Interview – Full Mock Interview](https://www.youtube.com/watch?v=1qw5ITr3k9E)
-
 ## Sites for learning programming
 
 ### Free
@@ -919,7 +877,6 @@
 - [LeetCode](https://leetcode.com/) - most popular platform for practicing DA, DS, coding interviews
 - [HackerRank](https://www.hackerrank.com/)
 - [Codewars](https://www.codewars.com/)
-- [LeetCode](https://leetcode.com/) - most popular platform for practicing DA, DS, coding interviews
 - [CodeCombat](https://codecombat.com/)
 - [CodeSignal](https://codesignal.com/)
 - [CodeChef](https://www.codechef.com/)
