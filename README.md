@@ -124,6 +124,20 @@
 - Classic Computer Science Problems in Python - David Kopec (2019, 1st edition, 224 pages, Manning)
   - 4.4 stars from 142 ratings on Amazon
   - [Amazon link](https://www.amazon.com/Classic-Computer-Science-Problems-Python/dp/1617295981)
+- Exercises for Programmers: 57 Challenges to Develop Your Coding Skills by Brian Hogan (2014, 1st edition, 110 pages, Pragmatic Bookshelf)
+  - 4.2 stars from 99 ratings on Amazon
+  - Doesn't cover one particular language. Use it while learning any programming language (reference)(https://www.youtube.com/shorts/HlXwBAjTycw)
+    - a brief breakdown by chapter titles (from an Amazon comment):
+      1. Turning Problems into Code (brief intro, no exercises)
+      2. Input, Processing, and Output (6 exercises)
+      3. Calculations (7 exercises)
+      4. Making Decisions (mostly about control statements, 10 exercises)
+      5. Functions (4 exercises)
+      6. Repetition (loops, 5 exercises)
+      7. Data Structures (arrays/lists/maps, 8 exercises)
+      8. Working with Files (file i/o, 6 exercises)
+      9. Working with External Services (interacting with web services, 6 exercises)
+      10. Full Programs (5 exercises)
 
 ## Computer architecture
 
