@@ -11,6 +11,7 @@
   - [Computer architecture](#computer-architecture)
   - [Software architecture](#software-architecture)
   - [Computer science](#computer-science)
+    - [Courses](#courses)
     - [Computer science (with Python) courses](#computer-science-with-python-courses)
   - [Design Patterns](#design-patterns)
   - [Data Structures and Algorithms](#data-structures-and-algorithms)
@@ -189,8 +190,23 @@
 
 - That webside is a great source of knowledge about CS: [Computer Science Field Guide](https://www.csfieldguide.org.nz/en/index.html)
 - learncs.org - [LearnCS.org](https://www.learncs.org/)
+
+### Courses
+
+- [Kay Lack - 0DE5](https://www.youtube.com/playlist?list=PLEpm7HyVZ61D7ZWp-L01Vlw8_KWgssq2f)
+  - [x] 1. Introducing 0DE5 (104K views, 3 months ago, 39:38)
+  - [ ] 2. From the Rosetta Stone to Binary, Hex, Octal, and ASCII (10K views, 3 months ago, 39:53)
+  - [ ] 3. Just enough C to have fun (59K views, 2 months ago, 39:29)
+  - [ ] 4. Making .BMP images from scratch (12K views, 2 months ago, 21:22)
+  - [ ] 5. Just enough assembly to blow your mind (123K views, 2 months ago, 29:31)
+  - [ ] 6. Assembly follow-up: from ARM64 to x86-64 (5.7K views, 2 months ago, 14:56)
+  - [ ] 7. Fast and Beautiful Assembly (15K views, 2 months ago, 34:28)
+  - [ ] 8. How the stack got stacked (17K views, 1 month ago, 41:04)
+  - [ ] 9. Crafting executables from raw bytes (31K views, 1 month ago, 26:43)
+  - [ ] 10. Best of the comments, worst of the mistakes (so far) (14K views, 4 weeks ago, 35:43)
+  - [ ] 11. Regular expressions as finite automata (14K views, 6 days ago, 28:51)
 - [Wacky Science - COMPUTER SCIENCE explained in 17 Minutes](https://www.youtube.com/watch?v=CxGSnA-RTsA)
-- [freeCodeCamp - Harvard CS50 – Full Computer Science University Course](https://www.youtube.com/watch?v=LfaMVlDaQ24)
+- [freeCodeCamp - Harvard CS50 - Full Computer Science University Course](https://www.youtube.com/watch?v=LfaMVlDaQ24)
   > Recorded in 2023.!
   - Course Contents:
     - [ ] (00:00:00) Lecture 0 - Scratch
@@ -906,6 +922,7 @@
 
 ## YouTube channels
 
+- [Kay Lack](https://www.youtube.com/@neoeno4242)
 - [dr Jonas Birch](https://www.youtube.com/@dr-Jonas-Birch)
 - [NeetCodeIO - Coding Interviews made Simple](https://www.youtube.com/@NeetCodeIO)
 - [ComputerScienceLessons](https://www.youtube.com/@ComputerScienceLessons)
