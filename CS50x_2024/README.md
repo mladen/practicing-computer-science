@@ -34,3 +34,32 @@ Documentation for the course, and what to install can be found [here](https://cs
     clang -o hello hello.c -lcs50
     ```
 
+## Lecture 2 - Arrays
+- Debugging:
+  ```bash
+  debug50 ./hello
+  ```
+  NOTE: `debug50` is a tool that allows us to debug our code.
+
+## Lecture 3 - Algorithms
+### BigO notation (time complexity)
+  > DEFINITION: Describes the _worst-case_ scenario for an algorithm. It gives the upper bound on time or space complexity. \
+  > Example: Sorting with Bubble Sort is $O(n^2)$, meaning it can take at most $n^2$  steps. \
+  > In short: $O$ - Ceiling (worst-case)
+  - $O(n^2)$ - Selection sort, Bubble sort
+    ```math
+    \begin{align*}
+    \text{Selection sort} &\rightarrow (n-1)\times(n-2)\times(n-3)+...+1=\dfrac{n^2}{2}-\dfrac{n}{2}\\
+    \text{Bubble sort} &\rightarrow (n-1)\times(n-1)=n^2+2n+1
+    \end{align*}
+    ```
+### BigOmega
+  > DEFINITION: Describes the best-case scenario. It gives the lower bound on time or space complexity. \
+  > Example: Bubble sort is $\Omega(n)$, as it might only take $n$ steps for an already sorted list. \
+  > In short: $\Omega$ - Floor (best-case).
+  - $\Omega(n^2)$ - Selection sort
+### BigTheta
+  > DEFINITION: Describes the exact complexity when the upper and lower bounds are the same. \
+  > Example: Merge sort is $\Theta(n \space log \space n)$, as it always takes $n \space log \space n$ steps. \
+  > In short: $\Theta$ - exact match.c
+  - $\Theta(n^2)$ - Selection sort
