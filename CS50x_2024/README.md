@@ -52,7 +52,9 @@ Documentation for the course, and what to install can be found [here](https://cs
 ```math
 \begin{align*}
 \text{Selection sort} &\rightarrow (n-1)\times(n-2)\times(n-3)+...+1=\dfrac{n^2}{2}-\dfrac{n}{2}\\
-\text{Bubble sort} &\rightarrow (n-1)\times(n-1)=n^2+2n+1
+&(\text{The biggest term, for Selection sort, is} \space n^2)\\
+\text{Bubble sort} &\rightarrow (n-1)\times(n-1)=n^2+2n+1 \\
+&(\text{The biggest term, for Bubble sort, is also} \space n^2)\\
 \end{align*}
 ```
 #### BigOmega (best-case scenario)
