@@ -49,14 +49,12 @@ Documentation for the course, and what to install can be found [here](https://cs
   > In short: $O$ - Ceiling (worst-case)
   - $O(n^2)$ - Selection sort, Bubble sort \
     Why? It's because we're taking the biggest term:
-    ```math
-    $$
-    \begin{align*}
-    \text{Selection sort} &\rightarrow (n-1)\times(n-2)\times(n-3)+...+1=\dfrac{n^2}{2}-\dfrac{n}{2}\\
-    \text{Bubble sort} &\rightarrow (n-1)\times(n-1)=n^2+2n+1
-    \end{align*}
-    $$
-    ```
+```math
+\begin{align*}
+\text{Selection sort} &\rightarrow (n-1)\times(n-2)\times(n-3)+...+1=\dfrac{n^2}{2}-\dfrac{n}{2}\\
+\text{Bubble sort} &\rightarrow (n-1)\times(n-1)=n^2+2n+1
+\end{align*}
+```
 #### BigOmega (best-case scenario)
   > DEFINITION: Describes the best-case scenario. It gives the lower bound on time or space complexity. \
   > Example: Bubble sort is $\Omega(n)$, as it might only take $n$ steps for an already sorted list. \
