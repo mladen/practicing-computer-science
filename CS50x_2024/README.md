@@ -69,3 +69,44 @@ Documentation for the course, and what to install can be found [here](https://cs
   > In short: $\Theta$ - exact match.c
   - $\Theta(n^2)$ - Selection sort
   - For bubble sort we cannot say anything here, because the best-case and worst-case scenarios are different (upper and lower bound are different).
+
+## Lecture 4 - Memory
+### Hexadecimal numbers/notation
+...
+
+### Memory
+**Ampersand (&)** - we can pronounce it the ***"address of"*** operator.
+With it, we're asking the computer "at what address is this variable". \
+**Asterisk (*)** - we can pronounce it ***"dereference operator"***.
+It allows us to take an address and go to it. It takes us to a location in memory, so we can see what's actually there.
+
+A **pointer** is just an ***address of some variable***, that we can store in another variable (called itself a pointer). \
+A pointer does not contain a regular value, but the address of some value. \
+*p (without the type, like "int", in front) means ***"go to that address - but don't print it"***
+
+My visual explanation
+
+| Memory address |   Variable    |     Value      | (comments)                                       |
+| -------------- | :-----------: | :------------: | ------------------------------------------------ |
+| 0x7ffe462988c8 |       n       |  5 (0b11...)   |                                                  |
+| ...            |               |   (...0010)    |                                                  |
+| ...            |               |      ...       |                                                  |
+| ...            |               |      ...       |                                                  |
+| (some address) | *pointer_to_n | 0x7ffe462988c8 | (pointer to memory location where 50 is located) |
+
+```c
+#include <stdio.h>
+
+int main(void) {
+    int n = 50; // int is typically 4 Bytes, on most systems
+
+    // If we want *pointer_to_n to be a pointer (a variable that stores an address), we do this (int *)
+    int *pointer_to_n = &n;
+
+    printf("The computer has put the value n = %i somewhere in memory.\n\n", n);
+    printf("Address of value %i is pointer_to_n = 0x%p, or &n = 0x%p\n\n", n, pointer_to_n, &n);
+    printf("Dereferencing the pointer %p, using *p (without putting 'int' type in front), we get the value %i.\n\n", &n, *pointer_to_n);
+
+    return 0;
+}
+```
