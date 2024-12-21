@@ -110,3 +110,20 @@ int main(void) {
     return 0;
 }
 ```
+
+#### How much memory space do pointers take?
+**Pointers take up more space (than variables)** - by convention. They typically take 8 Bytes nowadays, rather than just 4.
+Why is that?
+Well, if we've got 8 Bytes we can count even higher. We can have even more addresses. We can have even more memory.
+
+> Detailed explanation
+> 1. Pointer Size and Address Space: \
+> Pointers store memory addresses. The size of a pointer depends on the system architecture:
+> - On *32-bit systems*, pointers are typically *4 Bytes (32 bits)*, allowing access to $2^{32}$ memory addresses (*4 GB*).
+> - On *64-bit systems*, pointers are *8 Bytes (64 bits)*, allowing access to $2^{64}$ memory addresses (*16 exabytes*).
+>
+> 2. Why 8 Bytes Today? \
+> Most modern systems use a 64-bit architecture for better performance and support for large amounts of memory. This requires pointers to be 8 bytes to reference the larger address space.
+>
+> 3. Impact on Memory Usage: \
+> Pointers do take up more space compared to regular variables like int or float, which are usually 4 bytes on many platforms.
