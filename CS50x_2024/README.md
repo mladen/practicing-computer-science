@@ -119,11 +119,42 @@ Well, if we've got 8 Bytes we can count even higher. We can have even more addre
 > Detailed explanation
 > 1. Pointer Size and Address Space: \
 > Pointers store memory addresses. The size of a pointer depends on the system architecture:
-> - On *32-bit systems*, pointers are typically *4 Bytes (32 bits)*, allowing access to $2^{32}$ memory addresses (*4 GB*).
-> - On *64-bit systems*, pointers are *8 Bytes (64 bits)*, allowing access to $2^{64}$ memory addresses (*16 exabytes*).
+> - On *32-bit systems*, pointers typically use *4 Bytes (32 bits)* (to represent addresses), allowing access to $2^{32}$ memory addresses (*4 GB*).
+> - On *64-bit systems*, pointers use *8 Bytes (64 bits)* (to represent addresses), allowing access to $2^{64}$ memory addresses (*16 exabytes*).
 >
 > 2. Why 8 Bytes Today? \
 > Most modern systems use a 64-bit architecture for better performance and support for large amounts of memory. This requires pointers to be 8 bytes to reference the larger address space.
 >
 > 3. Impact on Memory Usage: \
 > Pointers do take up more space compared to regular variables like int or float, which are usually 4 bytes on many platforms.
+
+### Strings
+
+The pointer actually points to the first character of a string.
+Each string, in memory, ends with the null terminate character ('\0') which takes 8 bits (all zeros).
+
+```c
+#include <stdio.h>
+
+int main(void)
+{
+    char *sentence = "Hello World and some other words!"; // *sentence is a pointer (a variable that stores an address)
+                                                          // to a string called "Hello World and some other words!".
+                                                          // By convention, that pointer contains the address of the first character of the string.
+                                                          // By convention, the string ends with a null character '\0', which is not printed (it is implied).
+
+    printf("Pointer to sentence is %p\n", sentence);
+    printf("%s\n", sentence); // %s is a format specifier for strings
+
+    // Printing out the sentence/string
+    int counter = 0;
+    while (sentence[counter] != '\0')
+    {
+        printf("%c", sentence[counter]);
+
+        counter++;
+    }
+
+    printf("\n");
+}
+```
