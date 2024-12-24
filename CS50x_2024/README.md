@@ -158,3 +158,28 @@ int main(void)
     printf("\n");
 }
 ```
+
+#### About **string** type we've used so far
+
+In CS50x, so far, we've used the **string** type. That's because we had help from cs50.h where they've put
+```c
+typedef char *string;
+```
+
+That line "teaches" Clang to think of the word **string** as being synonymous with **char \***.
+
+```c
+#include <stdio.h>
+
+// typedef char *string;
+typedef char * string; // Creating a custom data type
+
+int main(void)
+{
+    // char *sentence = "Hello World and some other words!"; // This is the same as the line below
+    string sentence = "Hello World and some other words!";
+
+    printf("Pointer to sentence is %p\n", sentence);
+    printf("%s\n", sentence);
+}
+```
