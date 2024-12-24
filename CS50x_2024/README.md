@@ -33,6 +33,7 @@ Documentation for the course, and what to install can be found [here](https://cs
     # OR
     clang -o hello hello.c -lcs50
     ```
+    NOTE: We'll actually use the VSCode editor on cs50.dev, so we don't have to do the linking etc. locally
 
 ## Lecture 2 - Arrays
 - Debugging:
