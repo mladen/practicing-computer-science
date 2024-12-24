@@ -183,3 +183,35 @@ int main(void)
     printf("%s\n", sentence);
 }
 ```
+
+#### Pointer arithmetic
+
+We generally don't care about the specific value of the pointer but we care that they do exist. And if they do exist, we can do some arithmetic on them - like, "add 1" to go to the next byte etc.
+```c
+#include <stdio.h>
+
+int main(void)
+{
+    char * string = "Hi!";
+
+    // EXPLANATIONS:
+    // string - pointer to the first character of the string literal "Hi!". It holds the memory address where the string begins.
+    // * string (or *string) - dereferences the pointer string to get the value it points to, which is the first character of the string ('H' in "Hi!").
+    // (void *)string - This is the string pointer (which points to the first character of the string) explicitly cast to a void *.
+        // The cast ensures compatibility with the %p format specifier in printf, which expects a void *. It doesn't change the address stored in string, only how the pointer is interpreted for printing or generic use.
+        // For example:
+        // If string = 0x1000, then (void *)string is also 0x1000, but now treated as a generic pointer type.
+
+    printf("\n\n1. Address of %c is %p, which is the same as %p\n", * string, (void *)string, &string[0]);
+
+    printf("2. Address of %c is %p\n", string[1],  &string[1]);
+    // How does string[1] give us the value? Isn't "string" supposed to be a pointer?
+    // EXPLANATION: string[1] is equivalent to *(string + 1)!!! The pointer arithmetic (string + 1) advances
+    // the pointer by one position, pointing to the second character. The dereference
+    // operator * retrieves the value at that memory address, which is the character 'i'.
+    // EXAMPLE: &string[0]
+    // string[0] gives us the value of the first character (which has index = 0).
+    // Then the & operator gives us the value of that character.
+}
+```
+NOTE: Once again, we even have an ability to ask "where those things are" by using an Ampersand (&) operator.
